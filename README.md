@@ -1,16 +1,16 @@
-## Hi there 👋
+## hey, I'm Astra
 
-<!--
-**findastra/findastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+noncorporeal dancer · reality-hacker · digital performer -- building things in VR and on the web.
 
-Here are some ideas to get you started:
+### what I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Co-run **Mommy's**, a VRChat dance academy & entertainers club -- and building its custom world in [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole)
+- [`ghost-protocol`](https://github.com/findastra/ghost-protocol) -- an interactive personal cybersecurity checklist
+- [`astra-discord-presence`](https://github.com/findastra/astra-discord-presence) -- a free Discord Rich Presence companion
+- [`paper-girl`](https://github.com/findastra/paper-girl) -- a free science discovery desk
+- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- my own NFT character collection
+- [`learn-python`](https://github.com/findastra/learn-python) -- learning Python, in the open
+
+### elsewhere
+
+TikTok: [@findastra](https://www.tiktok.com/@findastra) -- VR content
