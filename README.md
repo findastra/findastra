@@ -4,7 +4,7 @@ VR dancer and digital performer. I build worlds in VRChat and tools for the web.
 
 ### what I'm building
 
-- Co-run **Mommy's**, a VRChat dance academy & entertainers club -- and building its custom world in [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole)
+- [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra’s Infinite Pole. PC VR / desktop
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
 - [`role-fairy`](https://github.com/findastra/role-fairy) -- a Discord bot for managing server roles
 - [`ai-astra-vrchat`](https://github.com/findastra/ai-astra-vrchat) -- a bridge that brings an AI companion into VRChat
