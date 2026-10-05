@@ -1,6 +1,6 @@
 ## hey, I'm Astra
 
-noncorporeal dancer · reality-hacker · digital performer -- building things in VR and on the web.
+VR dancer and digital performer. I build worlds in VRChat and tools for the web.
 
 ### what I'm building
 
