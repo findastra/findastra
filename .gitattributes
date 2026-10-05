@@ -1,2 +1,4 @@
-# Count this repository's Markdown as its language on GitHub.
+# Count this repository's Markdown as its language on GitHub. The README is the whole
+# profile page, so it is content here rather than documentation.
 *.md linguist-detectable
+README.md -linguist-documentation
