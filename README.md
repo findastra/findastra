@@ -5,13 +5,13 @@
 [![VRChat Photos Instagram: @astra_on_fire](socials/vrchat-photos-instagram.svg)](https://www.instagram.com/astra_on_fire)<br>
 [![Mommy's Discord](socials/mommys-discord.svg)](https://discord.gg/YJUHtGGrJe)
 
-### vr & vrchat
+### VR & VRChat
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
 
-### pet apps
+### Astra's Pet Apps
 
 1. [`astras-pet-apps`](https://github.com/findastra/astras-pet-apps) -- **Friendly Farmer** · the Cage, where all my pet apps live. he opens the door and keeps a desk with every app
 2. [`github-goldfish`](https://github.com/findastra/github-goldfish) -- **GitHub Goldfish** · swims through a GitHub account's repos and flags broken links, typos, missing files and inconsistencies
@@ -34,12 +34,12 @@
 19. [`claude-bot`](https://github.com/findastra/claude-bot) -- **Claude Bot** · a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
 20. [`rgbee`](https://github.com/findastra/rgbee) -- **RGBee** · plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard
 
-### discord
+### Discord
 
 - [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- free Windows companion that shows Codex activity on Discord, with model info, an elapsed timer and an animated galaxy
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- the same for Claude: automatic for Claude Code, manual for Claude desktop chat
 - [`role-fairy`](https://github.com/findastra/role-fairy) -- a Discord bot for managing server roles
 
-### web & more
+### Web & More
 
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn NFT characters where a 6-digit hex code determines unique image
