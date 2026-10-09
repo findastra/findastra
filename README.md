@@ -1,4 +1,4 @@
-##      .  × ˚     ·.   +✦ · ˚ ×: .    ·✧ ˚  *    +·  . Hi, I'm Astra .  × ˚     ·.   +✦ · ˚ ×: .    ·✧ ˚  *    +·
+##    .  × ˚   ·.   +✦ · ˚ ×: .    ·✧ ˚   +·  . Hi, I'm Astra .  × ˚  ·.   +✦ · ˚ × .  ·✧ ˚  *    +·
 
 #### Hi, I'm Astra
 #### noncorporeal dancer · reality-hacker · digital performer · vibe-coder
