@@ -6,7 +6,7 @@
 
 <p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
-### ✦ vr & vrchat
+### vr & vrchat
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) ✧ Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) ✧ a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
@@ -15,7 +15,7 @@
 
 <p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
-### ✦ pet apps
+### pet apps
 
 *each pet opens its own app, made to optimize PC & AI workflow*
 
@@ -35,7 +35,7 @@
 
 <p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
-### ✦ discord
+### discord
 
 - [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence) ✧ share AI activity on your Discord profile: model, effort level, elapsed timer and a swirling galaxy. the OpenAI and Anthropic apps in one place
 - [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) ✧ free Windows companion that shows Codex activity on Discord, with model info, an elapsed timer and an animated galaxy
@@ -44,7 +44,7 @@
 
 <p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
-### ✦ web & more
+### web & more
 
 - [`paper-girl`](https://github.com/findastra/paper-girl) ✧ a free science discovery desk: real research, publisher explanations, fresh articles, and an anonymous shared reading history
 - [`ghost-protocol`](https://github.com/findastra/ghost-protocol) ✧ an interactive personal cybersecurity checklist
@@ -52,6 +52,6 @@
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) ✧ hand-drawn NFT characters where a 6-digit hex code determines unique image
 - [`learn-python`](https://github.com/findastra/learn-python) ✧ learning Python, in the open
 
-<p align="center">.  ·+    *  ˚ ✧·    . :×  ˚ · ✦+   .·     ˚ ×  .</p>
+<p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
 <p align="center">✧ find me on TikTok <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content ✧</p>
