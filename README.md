@@ -2,11 +2,10 @@
 
 <p align="center"><b>noncorporeal-dancer | reality‑hacker | digital-performer | vibe‑coder</b></p>
 
-<p align="center">TikTok: <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content<br>
-TikTok: <a href="https://www.tiktok.com/@astra_on_fire">@astra_on_fire</a> for pole dance content<br>
-Instagram: <a href="https://www.instagram.com/astra_on_fire">@astra_on_fire</a> for VRChat photos<br>
-Discord: @findastra<br>
-Mommy's Discord: <a href="https://discord.gg/YJUHtGGrJe">discord.gg/YJUHtGGrJe</a></p>
+VR TikTok: [@findastra](https://www.tiktok.com/@findastra)<br>
+Pole Dance TikTok: [@astra_on_fire](https://www.tiktok.com/@astra_on_fire)<br>
+VRChat Photos Instagram: [@astra_on_fire](https://www.instagram.com/astra_on_fire)<br>
+Mommy's Discord: [discord.gg/YJUHtGGrJe](https://discord.gg/YJUHtGGrJe)
 
 <p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
