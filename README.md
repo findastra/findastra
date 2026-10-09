@@ -4,7 +4,7 @@
 
 <p align="center"><i> what I'm building & where to find me </i></p>
 
-<p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
+<p align="center"><b>·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·</b></p>
 
 ### vr & vrchat
 
@@ -13,7 +13,7 @@
 - [`vrchat-ai-astra`](https://github.com/findastra/vrchat-ai-astra) ✧ AI Astra, a framework-free statistical AI companion with living memory, plus the bridge that carries her into the VRChat chatbox
 - [`mommys-website`](https://github.com/findastra/mommys-website) ✧ plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
 
-<p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
+<p align="center"><b>·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·</b></p>
 
 ### pet apps
 
@@ -31,7 +31,7 @@
 - [`health-hummy`](https://github.com/findastra/health-hummy) ✧ a quiet place to notice sleep, energy and the shape of your day. check-ins stay on your device
 - [`finance-finch`](https://github.com/findastra/finance-finch) ✧ a simple record of income and spending, one entry at a time. entries stay on your device
 
-<p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
+<p align="center"><b>·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·</b></p>
 
 ### discord
 
@@ -40,7 +40,7 @@
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) ✧ the same for Claude: automatic for Claude Code, manual for Claude desktop chat
 - [`role-fairy`](https://github.com/findastra/role-fairy) ✧ a Discord bot for managing server roles
 
-<p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
+<p align="center"><b>·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·</b></p>
 
 ### web & more
 
@@ -50,6 +50,6 @@
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) ✧ hand-drawn NFT characters where a 6-digit hex code determines unique image
 - [`learn-python`](https://github.com/findastra/learn-python) ✧ learning Python, in the open
 
-<p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
+<p align="center"><b>·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·</b></p>
 
 <p align="center"> TikTok: <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content </p>
