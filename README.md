@@ -6,9 +6,6 @@
 
 <p align="center"><b>·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·</b></p>
 
-<p align="center"><i> what I'm building & where to find me </i></p>
-
-
 ### vr & vrchat
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) ✧ Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
