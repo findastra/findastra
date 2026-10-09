@@ -2,12 +2,12 @@
 
 <p align="center"><b>noncorporeal-dancer | reality‑hacker | digital-performer | vibe‑coder</b></p>
 
-VR TikTok: [@findastra](https://www.tiktok.com/@findastra)<br>
-Pole Dance TikTok: [@astra_on_fire](https://www.tiktok.com/@astra_on_fire)<br>
-VRChat Instagram: [@astra_on_fire](https://www.instagram.com/astra_on_fire)<br>
-Mommy's Discord: [discord.gg/YJUHtGGrJe](https://discord.gg/YJUHtGGrJe)
+[![VR TikTok: @findastra](https://img.shields.io/badge/VR_TikTok-%40findastra-b14cff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1525)](https://www.tiktok.com/@findastra)
+[![Pole Dance TikTok: @astra_on_fire](https://img.shields.io/badge/Pole_Dance_TikTok-%40astra__on__fire-ff3df0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1525)](https://www.tiktok.com/@astra_on_fire)
+[![VRChat Photos Instagram: @astra_on_fire](https://img.shields.io/badge/VRChat_Photos_Instagram-%40astra__on__fire-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1525)](https://www.instagram.com/astra_on_fire)
+[![Mommy's Discord: join](https://img.shields.io/badge/Mommy%27s_Discord-join-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1525)](https://discord.gg/YJUHtGGrJe)
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
+<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
 ### vr & vrchat
 
@@ -15,7 +15,7 @@ Mommy's Discord: [discord.gg/YJUHtGGrJe](https://discord.gg/YJUHtGGrJe)
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
+<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
 ### pet apps
 
@@ -39,7 +39,7 @@ Mommy's Discord: [discord.gg/YJUHtGGrJe](https://discord.gg/YJUHtGGrJe)
 18. [`project-parrot`](https://github.com/findastra/project-parrot) -- **Project Parrot** · capture a project idea, name the smallest next move, and choose when to come back to it
 19. [`claude-bot`](https://github.com/findastra/claude-bot) -- **Claude Bot** · a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
+<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
 ### discord
 
@@ -47,10 +47,10 @@ Mommy's Discord: [discord.gg/YJUHtGGrJe](https://discord.gg/YJUHtGGrJe)
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- the same for Claude: automatic for Claude Code, manual for Claude desktop chat
 - [`role-fairy`](https://github.com/findastra/role-fairy) -- a Discord bot for managing server roles
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
+<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
 ### web & more
 
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn NFT characters where a 6-digit hex code determines unique image
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
+<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
