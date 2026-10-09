@@ -52,4 +52,4 @@
 
 <p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
-<p align="center"> TikTok: <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content ✧</p>
+<p align="center"> TikTok: <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content </p>
