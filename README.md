@@ -1,9 +1,7 @@
 ## hey, I'm Astra
-
 noncorporeal dancer · reality-hacker · digital performer · vibe-coder
 
 ### what I'm building & where to find me
-
 #### vr & vrchat
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
