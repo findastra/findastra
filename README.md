@@ -7,15 +7,11 @@
 [![VRChat Photos Instagram: @astra_on_fire](socials/vrchat-photos-instagram.svg)](https://www.instagram.com/astra_on_fire)<br>
 [![Mommy's Discord](socials/mommys-discord.svg)](https://discord.gg/YJUHtGGrJe)
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
-
 ### vr & vrchat
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
-
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
 ### pet apps
 
@@ -40,18 +36,12 @@
 19. [`claude-bot`](https://github.com/findastra/claude-bot) -- **Claude Bot** · a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
 20. [`rgbee`](https://github.com/findastra/rgbee) -- **RGBee** · plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
-
 ### discord
 
 - [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- free Windows companion that shows Codex activity on Discord, with model info, an elapsed timer and an animated galaxy
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- the same for Claude: automatic for Claude Code, manual for Claude desktop chat
 - [`role-fairy`](https://github.com/findastra/role-fairy) -- a Discord bot for managing server roles
 
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
-
 ### web & more
 
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn NFT characters where a 6-digit hex code determines unique image
-
-<p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
