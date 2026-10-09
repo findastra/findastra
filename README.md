@@ -5,7 +5,8 @@
 <p align="center">TikTok: <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content<br>
 TikTok: <a href="https://www.tiktok.com/@astra_on_fire">@astra_on_fire</a> for pole dance content<br>
 Instagram: <a href="https://www.instagram.com/astra_on_fire">@astra_on_fire</a> for VRChat photos<br>
-Discord: @findastra</p>
+Discord: @findastra<br>
+Mommy's Discord: <a href="https://discord.gg/YJUHtGGrJe">discord.gg/YJUHtGGrJe</a></p>
 
 <p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
