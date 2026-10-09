@@ -1,8 +1,8 @@
 ## hey, I'm Astra
 
-noncorporeal dancer · reality-hacker · digital performer -- building things in VR and on the web.
+noncorporeal dancer · reality-hacker · digital performer · vibe-coder
 
-### what I'm building
+### what I'm building & where to find me
 
 #### vr & vrchat
 
@@ -11,9 +11,7 @@ noncorporeal dancer · reality-hacker · digital performer -- building things in
 - [`vrchat-ai-astra`](https://github.com/findastra/vrchat-ai-astra) -- AI Astra, a framework-free statistical AI companion with living memory, plus the bridge that carries her into the VRChat chatbox
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
 
-#### the cage: pet apps
-
-little pixel pets, each with its own app
+#### pet apps, each with its own interface (app) created to optimize PC & AI workflow
 
 - [`astras-pet-apps`](https://github.com/findastra/astras-pet-apps) -- the Cage, where all my pet apps live, hosted by the Friendly Farmer, who opens the door and keeps a desk with every app
 - [`claude-bot`](https://github.com/findastra/claude-bot) -- a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
