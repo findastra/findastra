@@ -4,9 +4,10 @@
 
 <p align="center"> TikTok: <a href="https://www.tiktok.com/@findastra">@findastra</a> for VR content </p>
 
+<p align="center"><b>·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·</b></p>
+
 <p align="center"><i> what I'm building & where to find me </i></p>
 
-<p align="center"><b>·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·   <sup>⋆</sup>   <sup><sup>✦</sup></sup>   <sup>⋆</sup>   ·   <sub>˚</sub>   <sub><sub>✧</sub></sub>   <sub>˚</sub>   ·</b></p>
 
 ### vr & vrchat
 
