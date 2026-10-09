@@ -4,7 +4,7 @@
 
 VR TikTok: [@findastra](https://www.tiktok.com/@findastra)<br>
 Pole Dance TikTok: [@astra_on_fire](https://www.tiktok.com/@astra_on_fire)<br>
-VRChat Photos Instagram: [@astra_on_fire](https://www.instagram.com/astra_on_fire)<br>
+VRChat Instagram: [@astra_on_fire](https://www.instagram.com/astra_on_fire)<br>
 Mommy's Discord: [discord.gg/YJUHtGGrJe](https://discord.gg/YJUHtGGrJe)
 
 <p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
