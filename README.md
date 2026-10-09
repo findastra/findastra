@@ -1,6 +1,4 @@
-<h2 align="center">.  × ˚ ·✧ ˚+·  . Hi, I'm Astra .  × ˚ ·✧ ˚  *  +·</h2>
-
-<p align="center"><b>noncorporeal-dancer | reality‑hacker | digital-performer | vibe‑coder</b></p>
+<h2 align="center">.  × ˚ ·✧ ˚+·  . Hi, I'm Astra .  × ˚ ·✧ ˚  *  +·<br><sub>noncorporeal-dancer | reality‑hacker | digital-performer | vibe‑coder</sub></h2>
 
 [![VR TikTok: @findastra](socials/vr-tiktok.svg)](https://www.tiktok.com/@findastra)<br>
 [![Pole Dance TikTok: @astra_on_fire](socials/pole-dance-tiktok.svg)](https://www.tiktok.com/@astra_on_fire)<br>
