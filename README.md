@@ -2,7 +2,7 @@
 
 <p align="center"><b>noncorporeal dancer · reality‑hacker · digital performer · vibe‑coder</b></p>
 
-<p align="center"><i>˚ what I'm building & where to find me ˚</i></p>
+<p align="center"><i> what I'm building & where to find me </i></p>
 
 <p align="center"><sub>˚  ·  .  ✦  .  ·  ˚</sub></p>
 
