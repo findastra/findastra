@@ -2,10 +2,10 @@
 
 <p align="center"><b>noncorporeal-dancer | reality‑hacker | digital-performer | vibe‑coder</b></p>
 
-[![VR TikTok: @findastra](https://img.shields.io/badge/VR_TikTok-%40findastra-b14cff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1525)](https://www.tiktok.com/@findastra)
-[![Pole Dance TikTok: @astra_on_fire](https://img.shields.io/badge/Pole_Dance_TikTok-%40astra__on__fire-ff3df0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1525)](https://www.tiktok.com/@astra_on_fire)
-[![VRChat Photos Instagram: @astra_on_fire](https://img.shields.io/badge/VRChat_Photos_Instagram-%40astra__on__fire-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1525)](https://www.instagram.com/astra_on_fire)
-[![Mommy's Discord: join](https://img.shields.io/badge/Mommy%27s_Discord-join-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1525)](https://discord.gg/YJUHtGGrJe)
+[![VR TikTok: @findastra](socials/vr-tiktok.svg)](https://www.tiktok.com/@findastra)<br>
+[![Pole Dance TikTok: @astra_on_fire](socials/pole-dance-tiktok.svg)](https://www.tiktok.com/@astra_on_fire)<br>
+[![VRChat Photos Instagram: @astra_on_fire](socials/vrchat-photos-instagram.svg)](https://www.instagram.com/astra_on_fire)<br>
+[![Mommy's Discord](socials/mommys-discord.svg)](https://discord.gg/YJUHtGGrJe)
 
 <p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
