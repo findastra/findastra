@@ -1,5 +1,5 @@
 ## Hi, I'm Astra
-# noncorporeal dancer · reality-hacker · digital performer · vibe-coder
+#### noncorporeal dancer · reality-hacker · digital performer · vibe-coder
 
 ### what I'm building & where to find me
 #### vr & vrchat
