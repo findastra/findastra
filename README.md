@@ -2,7 +2,7 @@
 
 <p align="center">noncorporeal-dancer | reality‑hacker | digital-performer | vibe‑coder</p>
 
-[![VR TikTok: @findastra](socials/vr-tiktok.svg)](https://www.tiktok.com/@findastra)<br>[![Pole Dance TikTok: @astra_on_fire](socials/pole-dance-tiktok.svg)](https://www.tiktok.com/@astra_on_fire)<br>[![VRChat Photos Instagram: @astra_on_fire](socials/vrchat-photos-instagram.svg)](https://www.instagram.com/astra_on_fire)<br>[![Mommy's Discord](socials/mommys-discord.svg)](https://discord.gg/YJUHtGGrJe)
+[![VR TikTok: @findastra](socials/vr-tiktok.svg)](https://www.tiktok.com/@findastra)<br>[![Pole Dance TikTok: @astra_on_fire](socials/pole-dance-tiktok.svg)](https://www.tiktok.com/@astra_on_fire)<br>[![VRChat Photos Instagram: @astra_on_fire](socials/vrchat-photos-instagram.svg)](https://www.instagram.com/astra_on_fire)<br>[![Mommy's Discord: Join MMY](socials/mommys-discord.svg)](https://discord.gg/YJUHtGGrJe)
 
 ### VR & VRChat
 
