@@ -17,8 +17,6 @@
 
 ### pet apps
 
-*each pet opens its own app, made to optimize PC & AI workflow*
-
 - [`astras-pet-apps`](https://github.com/findastra/astras-pet-apps) ✧ the Cage, where all my pet apps live, hosted by the Friendly Farmer, who opens the door and keeps a desk with every app
 - [`claude-bot`](https://github.com/findastra/claude-bot) ✧ a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
 - [`github-goldfish`](https://github.com/findastra/github-goldfish) ✧ a goldfish that swims through a GitHub account's repos and flags broken links, typos, missing files and inconsistencies
