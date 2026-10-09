@@ -38,6 +38,7 @@
 17. [`ghost-protocol`](https://github.com/findastra/ghost-protocol) -- **Ghost Protocol** · an interactive personal cybersecurity checklist
 18. [`project-parrot`](https://github.com/findastra/project-parrot) -- **Project Parrot** · capture a project idea, name the smallest next move, and choose when to come back to it
 19. [`claude-bot`](https://github.com/findastra/claude-bot) -- **Claude Bot** · a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
+20. [`rgbee`](https://github.com/findastra/rgbee) -- **RGBee** · plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard
 
 <p align="center"><b>·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ✦  <sub>˚</sub>  <sub><sub>✧</sub></sub>  <sub>˚</sub>  ·  <sup>⋆</sup>  <sup><sup>✦</sup></sup>  <sup>⋆</sup>  ·</b></p>
 
