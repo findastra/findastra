@@ -1,0 +1,45 @@
+# The Friendly Farmer's profile round: keeps this README's repo lists matched to GitHub.
+# The script lives in the Cage (findastra/astras-pet-apps, scripts/farmer-profile-20261009.mjs).
+# It only touches the repo lists; the header, socials and Astra's own blurbs stay as written.
+# Claude Opus 5.5 (claude-opus-5-5), 2026-10-09.
+name: Friendly Farmer's profile round
+
+on:
+  schedule:
+    - cron: '47 12 * * *'   # half an hour after the Farmer's daily rounds
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: findastra/astras-pet-apps
+          path: .cage
+          sparse-checkout: |
+            pets.json
+            scripts
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Match the profile to GitHub
+        id: profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .cage/scripts/farmer-profile-20261009.mjs --readme README.md --registry .cage/pets.json
+      - name: Commit as the Friendly Farmer
+        if: steps.profile.outputs.changed == 'yes'
+        env:
+          SUMMARY: ${{ steps.profile.outputs.summary }}
+        run: |
+          git config user.name "Friendly Farmer"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Farmer's profile round: $SUMMARY"
+          git pull --rebase origin main
+          git push origin HEAD:main
