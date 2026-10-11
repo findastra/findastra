@@ -48,10 +48,10 @@
 
 ### Discord
 
-- [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- free Windows companion that shows Codex activity on Discord, with model info, an elapsed timer and an animated galaxy
-- [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- the same for Claude: automatic for Claude Code, manual for Claude desktop chat
-- [`role-fairy`](https://github.com/findastra/role-fairy) -- a Discord bot for managing server roles
+- [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- moved: OpenAI Discord Presence now lives in [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence)
+- [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- moved: Anthropic Discord Presence (automatic for Claude Code, plus Always On for Claude chat) now lives in [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence)
+- [`role-fairy`](https://github.com/findastra/role-fairy) -- Mommy's Role Fairy: a cute, single-choice Discord role picker for new and existing members
 
 ### Web & More
 
-- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn NFT characters where a 6-digit hex code determines unique image
+- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look
