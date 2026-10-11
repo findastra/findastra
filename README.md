@@ -9,7 +9,6 @@
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
-- [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
 
 ### Astra's Pet Apps
 
@@ -54,4 +53,5 @@
 
 ### Web & More
 
-- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look
+- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look'
+- [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
