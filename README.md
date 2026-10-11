@@ -30,20 +30,21 @@
 16. [`vscode-angel`](https://github.com/findastra/vscode-angel) -- **VSCode Angel** · tracks code cleanup with a reason, a next action and the result, then exports a Markdown worklist
 17. [`ghost-protocol`](https://github.com/findastra/ghost-protocol) -- **Ghost Protocol** · an interactive personal cybersecurity checklist
 18. [`project-parrot`](https://github.com/findastra/project-parrot) -- **Project Parrot** · capture a project idea, name the smallest next move, and choose when to come back to it
-19. [`claude-bot`](https://github.com/findastra/claude-bot) -- **Claude Bot** · a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
-20. [`rgbee`](https://github.com/findastra/rgbee) -- **RGBee** · plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard
-21. [`mine-mole`](https://github.com/findastra/mine-mole) -- **Mine Mole** · researching whether mining crypto on Astra's own PC is worth the power
-22. [`mail-snail`](https://github.com/findastra/mail-snail) -- **Mail Snail** · placeholder: a mail pet. The job is not decided yet, and it connects to no mail account
-23. `patch-cat` *(private)* -- **Patch Cat** · placeholder. The job is not decided yet
-24. `meme-fiend` *(private)* -- **Meme Fiend** · meme saver and maker. Your memes stay on your PC
-25. `astras-gif-maker` *(private)* -- **Gif Giraffe** · placeholder for a pet app that will make GIFs
-26. `backup-beaver` *(private)* -- **Backup Beaver** · placeholder: a backup pet. The job is not decided yet
-27. `rift-rabbit` *(private)* -- **Rift Rabbit** · a white rabbit that preps and tracks VR software and performance
-28. [`fuzzboi-friend`](https://github.com/findastra/fuzzboi-friend) -- **Fuzzboi Friend** · makes your own Fuzzboi: type a six-digit hex code and get that exact Fuzzboi as a PNG
-29. `wifi-butterfly` *(private)* -- **Wifi Butterfly** · placeholder: a monarch butterfly pet. What it does is not decided yet
-30. [`deck-duck`](https://github.com/findastra/deck-duck) -- **Deck Duck** · placeholder: an Elgato Stream Deck inspired pet. The job is not decided yet
-31. `mesh-moth` *(private)* -- **Mesh Moth** · placeholder for a pet that stands for a Meshtastic node: it will show the node's place in a radio mesh
-32. `raspberry-berry` *(private)* -- **Raspberry Pi** · placeholder for a raspberry-berry pet. It will be a small companion for a Raspberry Pi
+19. `voicemeeter-bug` *(private)* -- **Voicemeeter Bug** · a small Windows desktop pet for restarting Voicemeeter's audio engine when audio needs repair. Its browser page explains how to open the installed app
+20. [`claude-bot`](https://github.com/findastra/claude-bot) -- **Claude Bot** · a small floating Claude control for Windows with a status bubble, an update bell and a quick-chat shortcut
+21. [`rgbee`](https://github.com/findastra/rgbee) -- **RGBee** · plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard
+22. [`mine-mole`](https://github.com/findastra/mine-mole) -- **Mine Mole** · researching whether mining crypto on Astra's own PC is worth the power
+23. [`mail-snail`](https://github.com/findastra/mail-snail) -- **Mail Snail** · placeholder: a mail pet. The job is not decided yet, and it connects to no mail account
+24. `patch-cat` *(private)* -- **Patch Cat** · placeholder. The job is not decided yet
+25. `meme-fiend` *(private)* -- **Meme Fiend** · meme saver and maker. Your memes stay on your PC
+26. `astras-gif-maker` *(private)* -- **Gif Giraffe** · placeholder for a pet app that will make GIFs
+27. `backup-beaver` *(private)* -- **Backup Beaver** · placeholder: a backup pet. The job is not decided yet
+28. `rift-rabbit` *(private)* -- **Rift Rabbit** · a white rabbit that preps and tracks VR software and performance
+29. [`fuzzboi-friend`](https://github.com/findastra/fuzzboi-friend) -- **Fuzzboi Friend** · makes your own Fuzzboi: type a six-digit hex code and get that exact Fuzzboi as a PNG
+30. `wifi-butterfly` *(private)* -- **Wifi Butterfly** · placeholder: a monarch butterfly pet. What it does is not decided yet
+31. [`deck-duck`](https://github.com/findastra/deck-duck) -- **Deck Duck** · placeholder: an Elgato Stream Deck inspired pet. The job is not decided yet
+32. `mesh-moth` *(private)* -- **Mesh Moth** · placeholder for a pet that stands for a Meshtastic node: it will show the node's place in a radio mesh
+33. `raspberry-berry` *(private)* -- **Raspberry Pi** · placeholder for a raspberry-berry pet. It will be a small companion for a Raspberry Pi
 
 ### Discord
 
