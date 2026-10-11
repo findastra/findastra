@@ -1,4 +1,4 @@
-<h2 align="center">.× ˚ ·✧ ˚+ . Hi, I'm Astra .× ˚·✧ ˚*  +·</h2>
+<h2 align="center">.·✧ ˚+ . Hi, I'm Astra .× ˚·✧·</h2>
 
 <p align="center">noncorporeal-dancer | reality‑hacker | vibe‑coder</p>
 
@@ -10,6 +10,15 @@
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
 
+### Discord
+
+- [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- moved: OpenAI Discord Presence now lives in [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence)
+- [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- moved: Anthropic Discord Presence (automatic for Claude Code, plus Always On for Claude chat) now lives in [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence)
+- [`role-fairy`](https://github.com/findastra/role-fairy) -- Mommy's Role Fairy: a cute, single-choice Discord role picker for new and existing members
+
+### Web & More
+- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look'
+- [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
 ### Astra's Pet Apps
 
 1. [`astras-pet-apps`](https://github.com/findastra/astras-pet-apps) -- **Friendly Farmer** · the Cage, where all my pet apps live. he opens the door and keeps a desk with every app
@@ -45,13 +54,3 @@
 31. [`deck-duck`](https://github.com/findastra/deck-duck) -- **Deck Duck** · placeholder: an Elgato Stream Deck inspired pet. The job is not decided yet
 32. `mesh-moth` *(private)* -- **Mesh Moth** · placeholder for a pet that stands for a Meshtastic node: it will show the node's place in a radio mesh
 33. `raspberry-berry` *(private)* -- **Raspberry Pi** · placeholder for a raspberry-berry pet. It will be a small companion for a Raspberry Pi
-
-### Discord
-
-- [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- moved: OpenAI Discord Presence now lives in [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence)
-- [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- moved: Anthropic Discord Presence (automatic for Claude Code, plus Always On for Claude chat) now lives in [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence)
-- [`role-fairy`](https://github.com/findastra/role-fairy) -- Mommy's Role Fairy: a cute, single-choice Discord role picker for new and existing members
-
-### Web & More
-- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look'
-- [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
