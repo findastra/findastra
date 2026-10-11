@@ -1,4 +1,4 @@
-<h2 align="center">.  × ˚ ·✧ ˚+·  . Hi, I'm Astra .  × ˚ ·✧ ˚  *  +·</h2>
+<h2 align="center">.× ˚ ·✧ ˚+ . Hi, I'm Astra .× ˚·✧ ˚*  +·</h2>
 
 <p align="center">noncorporeal-dancer | reality‑hacker | vibe‑coder</p>
 
