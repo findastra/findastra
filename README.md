@@ -2,7 +2,7 @@
 
 <p align="center">noncorporeal-dancer | reality‑hacker | vibe‑coder | digital-nomad</p>
 
-[![Mommy's Discord: Join MMY, a Discord server hosting our VRChat Rave House, Dance, & Avatar Academy](socials/mommys-discord-20261009-092400.svg)](https://discord.gg/YJUHtGGrJe)<br>[![VR TikTok: @findastra -- Showing off my VR tech, creative content, & pointers](socials/vr-tiktok-20261009-092400.svg)](https://www.tiktok.com/@findastra)<br>[![Pole Dance TikTok: @astra_on_fire -- Pole Dance Dictionary with organized step-by-step tutorials, glitter, and music](socials/pole-dance-tiktok-20261009-092400.svg)](https://www.tiktok.com/@astra_on_fire)<br>[![VRChat Instagram: @astra_on_fire -- My simple VRChat photo diary](socials/vrchat-photos-instagram-20261009-092400.svg)](https://www.instagram.com/astra_on_fire)
+[![Mommy's Discord: Join MMY -- Discord server hosting our VRChat Rave House, Dance, & Avatar Academy](socials/mommys-discord-20261009-092400.svg)](https://discord.gg/YJUHtGGrJe)<br>[![VR TikTok: @findastra -- Showing off my VR tech, creative content, & pointers](socials/vr-tiktok-20261009-092400.svg)](https://www.tiktok.com/@findastra)<br>[![Pole Dance TikTok: @astra_on_fire -- Pole Dance Dictionary with organized step-by-step tutorials, glitter, and music](socials/pole-dance-tiktok-20261009-092400.svg)](https://www.tiktok.com/@astra_on_fire)<br>[![VRChat Instagram: @astra_on_fire -- My simple VRChat photo diary](socials/vrchat-photos-instagram-20261009-092400.svg)](https://www.instagram.com/astra_on_fire)
 
 ### VR & VRChat
 
