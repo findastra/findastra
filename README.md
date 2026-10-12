@@ -19,7 +19,8 @@
 ### Web & More
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look'
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
-### Astra's Pet Apps
+
+### Astra's PetOS - Personal AI Agent Platform
 
 1. [`astras-pet-apps`](https://github.com/findastra/astras-pet-apps) -- **Friendly Farmer** · the Cage, where all my pet apps live. he opens the door and keeps a desk with every app
 2. [`github-goldfish`](https://github.com/findastra/github-goldfish) -- **GitHub Goldfish** · swims through a GitHub account's repos and flags broken links, typos, missing files and inconsistencies
