@@ -24,7 +24,7 @@
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
-Every pet is an intelligent app with four intelligence layers: 1. **Third Party Programs, Programs and Tools You Create** (the tool you open), 2. **Pet Program** (a dashboard that manages those programs and tools), 3. **Agentic Harness + AI Model or the "Agent"** (AI on demand through its own harness, asking before anything that matters), and 4. Human (You). The **Friendly Farmer** manages Your Farm. How they all connect: [Herd Web](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
+Every pet is an intelligent app with four intelligence layers: 1. **Third Party Programs, Programs and Tools You Create** (the tool you open), 2. **Pet Program** (a dashboard that manages those programs and tools), 3. **Agentic Harness + AI Model or the "Agent"** (AI on demand through its own harness, asking before anything that matters), and 4. Human (You). The **Friendly Farmer** manages Your Farm. How they all connect: [Astra's PetOS System Map](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
 
 1. [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- **Friendly Farmer** · organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra. The Farmer’s desk opens every app. He will run the Farm, the native OS of Astra’s PetOS
 2. [`github-goldfish`](https://github.com/findastra/github-goldfish) -- **GitHub Goldfish** · swims through a GitHub account's repos and flags broken links, typos, missing files and inconsistencies
