@@ -22,9 +22,9 @@
 - [`chat-rat`](https://github.com/findastra/chat-rat) -- chat Rat: a pet app by Astra. Files every Claude and OpenAI chat into one shared folder
 - [`startup-star`](https://github.com/findastra/startup-star) -- startup Star: the Friendly Farmer's tool that brings out Astra's desktop pets from the tray
 
-### Astra's PetOS - Personal AI Agent Platform
+### Astra's PetOS - Free, Open-Source AI Operating System
 
-Every pet is an intelligent app with three layers: its **app** (the tool you open), its **runtime** (a worker that runs on its own schedule) and its **agent** (AI on demand through its own harness, asking before anything that matters). The **Friendly Farmer** looks after the herd. Every pet has its app today; runtimes and agents come next. How they all connect: [Herd Web](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
+Every pet is an intelligent app with four intelligence layers: 1. **Third Party Programs, Programs and Tools You Create** (the tool you open), 2. **Pet Program** (a dashboard that manages those programs and tools), 3. **Agentic Harness + AI Model or the "Agent"** (AI on demand through its own harness, asking before anything that matters), and 4. Human (You). The **Friendly Farmer** manages Your Farm. How they all connect: [Herd Web](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
 
 1. [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- **Friendly Farmer** · organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra. The Farmer’s desk opens every app. He will run the Farm, the native OS of Astra’s PetOS
 2. [`github-goldfish`](https://github.com/findastra/github-goldfish) -- **GitHub Goldfish** · swims through a GitHub account's repos and flags broken links, typos, missing files and inconsistencies
