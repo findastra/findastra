@@ -15,7 +15,7 @@
 
 - [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- OpenAI Discord Presence card
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- Anthropic Discord Presence card
-- [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence) -- Contains the package for both OpenAI Discord Presence, Anthropic Discord Presence, and the tools to add more model presence cards
+- [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence) -- Contains the package for OpenAI Discord Presence, Anthropic Discord Presence, and the tools to add more model presence cards
 - [`role-fairy`](https://github.com/findastra/role-fairy) -- Mommy's Role Fairy: a cute, single-choice Discord role picker for new and existing members
 
 ### Web & More
