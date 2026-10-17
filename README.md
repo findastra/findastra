@@ -19,8 +19,8 @@
 - [`role-fairy`](https://github.com/findastra/role-fairy) -- Mommy's Role Fairy: a cute, single-choice Discord role picker for new and existing members
 
 ### Web & More
-- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- hand-drawn characters where a 6-digit hex code picks the look'
-- [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat dance academy & entertainers club
+- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
+- [`mommys-website`](https://github.com/findastra/mommys-website) -- plan and brief for the website of Mommy's, a VRChat Rave House, Dance & Avatar Academy
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
