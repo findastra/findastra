@@ -9,9 +9,8 @@
 ### VR & VRChat
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
-- [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
+- [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
-
 
 ### Discord
 
