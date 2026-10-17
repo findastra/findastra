@@ -2,7 +2,9 @@
 
 <p align="center">noncorporeal-dancer | reality‑hacker | vibe‑coder | digital-nomad</p>
 
-[![Mommy's Discord: Join MMY -- Discord server hosting our VRChat Rave House, Dance, & Avatar Academy](socials/mommys-discord-20261009-092400.svg)](https://discord.gg/YJUHtGGrJe)<br>[![VR TikTok: @findastra -- Showing off my VR tech, creative content, & pointers](socials/vr-tiktok-20261009-092400.svg)](https://www.tiktok.com/@findastra)<br>[![Pole Dance TikTok: @astra_on_fire -- Pole Dance Dictionary with organized step-by-step tutorials, glitter, and music](socials/pole-dance-tiktok-20261009-092400.svg)](https://www.tiktok.com/@astra_on_fire)<br>[![VRChat Instagram: @astra_on_fire -- My simple VRChat photo diary](socials/vrchat-photos-instagram-20261009-092400.svg)](https://www.instagram.com/astra_on_fire)
+<!-- goldfish:social-row style=5 -->
+<p align="center"><a href="https://discord.gg/YJUHtGGrJe"><img src="socials/row5-mommys-discord.svg" width="130" height="46" alt="Mommy&#39;s Discord: Join MMY" title="Mommy&#39;s Discord: Join MMY"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@findastra"><img src="socials/row5-vr-tiktok.svg" width="81" height="46" alt="VR TikTok: @findastra" title="VR TikTok: @findastra"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@astra_on_fire"><img src="socials/row5-pole-dance-tiktok.svg" width="136" height="46" alt="Pole Dance TikTok: @astra_on_fire" title="Pole Dance TikTok: @astra_on_fire"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/astra_on_fire"><img src="socials/row5-vrchat-instagram.svg" width="135" height="46" alt="VRChat Instagram: @astra_on_fire" title="VRChat Instagram: @astra_on_fire"></a></p>
+<!-- /goldfish:social-row -->
 
 ### VR & VRChat
 
@@ -25,7 +27,7 @@
 
 | Intelligence Level | Layer Components | What it is |
 |:---:|---|---|
-| **L1** | **Third Party Program(s), Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
+| **L1** | **Third Party Programs, Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
 | **L2** | **Pet Program, Native Tricks you create** | A dashboard that manages L1 programs and tools, and manages your native L2 tricks |
 | **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) that sits in the agentic harness when called upon to become the Agent |
 | **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |

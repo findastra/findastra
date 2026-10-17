@@ -1,0 +1,9 @@
+{
+  "about": "Astra's social links for the profile README. GitHub Goldfish's social-row tool (github-goldfish/scripts/social-row-20261017.mjs) draws them in the style chosen on GitHub Aquarium.",
+  "links": [
+    { "label": "Mommy's Discord", "handle": "Join MMY", "icon": "discord", "url": "https://discord.gg/YJUHtGGrJe" },
+    { "label": "VR TikTok", "handle": "@findastra", "icon": "tiktok", "url": "https://www.tiktok.com/@findastra" },
+    { "label": "Pole Dance TikTok", "handle": "@astra_on_fire", "icon": "tiktok", "url": "https://www.tiktok.com/@astra_on_fire" },
+    { "label": "VRChat Instagram", "handle": "@astra_on_fire", "icon": "instagram", "url": "https://www.instagram.com/astra_on_fire" }
+  ]
+}
