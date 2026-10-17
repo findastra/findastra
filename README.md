@@ -56,144 +56,144 @@ How they all connect: [Astra's PetOS System Map](https://findastra.github.io/ast
 9. **[Finance Finch](https://github.com/findastra/finance-finch)** -- personal finance tracker across your bank, savings and investment accounts. It reads balances and never moves money
    - [`nest-egg`](https://findastra.github.io/astras-pet-os/apps/finance-finch-20261008.html) -- the pet program
 10. **[Mommy's Mommies](https://github.com/findastra/mommys)** -- a local planning room for Mommy's classes and events, with session details, readiness and notes. Calendar and Discord connections are planned
-   - [`mommys-green-room`](https://findastra.github.io/astras-pet-os/apps/mommys-20261008.html) -- the pet program
+    - [`mommys-green-room`](https://findastra.github.io/astras-pet-os/apps/mommys-20261008.html) -- the pet program
 11. **[Patty](https://github.com/findastra/paper-girl)** -- runs Paper Girl, a free science discovery desk: real research, publisher explanations and fresh articles
-   - [`paper-girl`](https://findastra.github.io/paper-girl/) -- the pet program
+    - [`paper-girl`](https://findastra.github.io/paper-girl/) -- the pet program
 12. **[File Master](https://github.com/findastra/file-master)** -- organizes your files and finds systemic errors. Shows every mass change before making it, with undo
-   - [`file-kingdom`](https://findastra.github.io/astras-pet-os/apps/file-master-20261008.html) -- the pet program
+    - [`file-kingdom`](https://findastra.github.io/astras-pet-os/apps/file-master-20261008.html) -- the pet program
 13. **[Discord Damsel](https://github.com/findastra/findastra-discord-presence)** -- opens the installed OpenAI and Anthropic Discord presence controls, with a manual setup checklist
-   - [`discord-tower`](https://findastra.github.io/astras-pet-os/apps/findastra-discord-presence-20261008.html) -- the pet program
+    - [`discord-tower`](https://findastra.github.io/astras-pet-os/apps/findastra-discord-presence-20261008.html) -- the pet program
 14. **[Portfolio Puffer](https://github.com/findastra/portfolio-puffer)** -- drafts and tracks portfolio updates locally. GitHub and LinkedIn connections are planned; publishing is manual
-   - [`iced-out-iceberg`](https://findastra.github.io/astras-pet-os/apps/portfolio-puffer-20261008.html) -- the pet program
+    - [`iced-out-iceberg`](https://findastra.github.io/astras-pet-os/apps/portfolio-puffer-20261008.html) -- the pet program
 15. **[Drum Dog](https://github.com/findastra/drum-dog)** -- saves and samples music found online for Ableton Live, and plans releases: the first album, DJ mixes and where each one is hosted. Ableton Live connections are planned
-   - [`bass-biscuits`](https://findastra.github.io/astras-pet-os/apps/drum-dog-20261008.html) -- the pet program
+    - [`bass-biscuits`](https://findastra.github.io/astras-pet-os/apps/drum-dog-20261008.html) -- the pet program
 16. **[VSCode Angel](https://github.com/findastra/vscode-angel)** -- records code-review findings and next steps, then exports a Markdown worklist. Editor connections are planned
-   - [`halo-list`](https://findastra.github.io/astras-pet-os/apps/vscode-angel-20261008.html) -- the pet program
+    - [`halo-list`](https://findastra.github.io/astras-pet-os/apps/vscode-angel-20261008.html) -- the pet program
 17. **[Gone Ghost](https://github.com/findastra/ghost-protocol)** -- watches the public Ghost Protocol website and checks Astra’s own security against its research: a personal cybersecurity checklist and the steps she has completed
-   - [`am-i-a-ghost`](https://findastra.github.io/ghost-protocol/) -- the pet program
+    - [`am-i-a-ghost`](https://findastra.github.io/ghost-protocol/) -- the pet program
 18. **[Project Parrot](https://github.com/findastra/project-parrot)** -- periodically reviews OneNote for new project ideas and reminds Astra to start them [planned]
-   - [`idea-perch`](https://findastra.github.io/astras-pet-os/apps/project-parrot-20261008.html) -- the pet program
+    - [`idea-perch`](https://findastra.github.io/astras-pet-os/apps/project-parrot-20261008.html) -- the pet program
 19. **[Voicemeeter Bug](https://github.com/findastra/voicemeeter-bug)** -- a small Windows desktop pet for restarting Voicemeeter's audio engine when audio needs repair. Its browser page explains how to open the installed app
-   - [`audio-rescue`](https://findastra.github.io/astras-pet-os/apps/voicemeeter-bug-20261008.html) -- the pet program
+    - [`audio-rescue`](https://findastra.github.io/astras-pet-os/apps/voicemeeter-bug-20261008.html) -- the pet program
 20. **[Sugarcube](https://github.com/findastra/spoonfed)** -- helps choose where to eat by spinning restaurant choices while respecting locked preferences and keeping favorite spots
-   - [`spoonfed`](https://github.com/findastra/spoonfed) -- the pet program
+    - [`spoonfed`](https://github.com/findastra/spoonfed) -- the pet program
 21. **[Claude Bot](https://github.com/findastra/claude-bot)** -- Claude’s twin of ChatGPT’s BSOD desktop pet, in looks and in function: an orange face on the Windows desktop that shows Claude’s live status in a bubble and opens quick chat
-   - `claude-dock` -- the pet program
+    - `claude-dock` -- the pet program
 22. **[RGBee](https://github.com/findastra/rgbee)** -- plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard. Sending scenes to the real lights is planned
-   - `light-hive` -- the pet program
+    - `light-hive` -- the pet program
 23. **[Mine Mole](https://github.com/findastra/mine-mole)** -- manages the cryptocurrency mining program on Astra’s PC and checks whether mining is worth the power
-   - `crypto-burrow` -- the pet program
+    - `crypto-burrow` -- the pet program
 24. **[Mail Snail](https://github.com/findastra/mail-snail)** -- organizes your mail: sorts it, cleans it up and deletes what you no longer need, always with your OK first. Connects to no mail account yet
-   - `mail-shell` -- the pet program
+    - `mail-shell` -- the pet program
 25. **[Patch Cat](https://github.com/findastra/patch-cat)** -- keeps Windows, drivers and apps patched against security holes (its confirmed security role; the rest of its job is Astra’s to choose)
-   - `the-litter-box` -- the pet program
+    - `the-litter-box` -- the pet program
 26. **[Meme Fiend](https://github.com/findastra/meme-fiend)** -- archives your favourite memes, especially from Discord, and will run a tool for making your own (not built yet). Your memes stay on your PC
-   - `cursed-archive` -- the pet program
+    - `cursed-archive` -- the pet program
 27. **[Gif Giraffe](https://github.com/findastra/astras-gif-maker)** -- makes GIFs in the browser
-   - [`astras-gif-maker`](https://github.com/findastra/astras-gif-maker) -- the pet program
+    - [`astras-gif-maker`](https://github.com/findastra/astras-gif-maker) -- the pet program
 28. **[Backup Beaver](https://github.com/findastra/backup-beaver)** -- like API Fairy for backups: keeps track of when the last backup ran, where it is, and how to get to it
-   - `backup-dam` -- the pet program
+    - `backup-dam` -- the pet program
 29. **[Rift Rabbit](https://github.com/findastra/rift-rabbit)** -- a white rabbit that preps and tracks VR software and performance
-   - `wonderland-launchpad` -- the pet program
+    - `wonderland-launchpad` -- the pet program
 30. **[Fuzzboi Friend](https://github.com/findastra/fuzzboi-friend)** -- watches over the Fuzzbois website, which generates the Fuzzboi art, and shows its health with his mood. Mostly for fun: swap his look any time
-   - `pet-program-30` -- pet program, not named yet
+    - `fuzzboi-factory` -- the pet program
 31. **[Wifi Butterfly](https://github.com/findastra/wifi-butterfly)** -- watches the radios: unknown Wi-Fi networks and Bluetooth devices nearby (its confirmed security role; the rest of its job is Astra’s to choose)
-   - `pet-program-31` -- pet program, not named yet
+    - `pet-program-31` -- pet program, not named yet
 32. **[Deck Duck](https://github.com/findastra/deck-duck)** -- helps you manage your Elgato Stream Deck: what every button does, on every profile
-   - `pet-program-32` -- pet program, not named yet
+    - `pet-program-32` -- pet program, not named yet
 33. **[Mesh Moth](https://github.com/findastra/mesh-moth)** -- manages Astra’s Meshtastic node: its place in the radio mesh, its health and its messages
-   - `pet-program-33` -- pet program, not named yet
+    - `pet-program-33` -- pet program, not named yet
 34. **[Raspberry Pi Berry](https://github.com/findastra/raspberry-berry)** -- keeps track of Astra’s Raspberry Pi projects and tells her which Pis need a backup or an OS update
-   - `raspberry-pi-maker` -- the pet program
+    - `raspberry-pi-maker` -- the pet program
 35. **[Chat Rat](https://github.com/findastra/chat-rat)** -- saves local AI conversations and imported exports, filed by model and YYYYMMDD date, with a button that opens each folder
-   - `pet-program-35` -- pet program, not named yet
+    - `chat-stack` -- the pet program
 36. **[Platform Platypus](https://github.com/findastra/platform-platypus)** -- keeps Astra's pages working on iPhone, Android, iPad and desktop: shows a page on every device at once, checks it, tracks what each watched site still needs, and compares screenshots from two platforms
-   - `pet-program-36` -- pet program, not named yet
+    - `mirror-pool` -- the pet program
 37. **[Dubstep Gunsmith](https://github.com/findastra/pet-program-37)** -- catalogs avatar gun effects and loadouts for Astra’s avatars. Its source is still only on the PC, not on GitHub
-   - `dubstep-armory` -- the pet program
+    - `dubstep-armory` -- the pet program
 38. **[Pole Puff](https://github.com/findastra/pet-program-38)** -- manages Astra's Infinite Pole
-   - [`pet-program-38`](https://github.com/findastra/pet-program-38) -- pet program, not named yet
+    - `infinite-studio` -- the pet program
 39. **[Procreate Panda](https://github.com/findastra/pet-program-39)** -- handles the redlines Astra makes in Procreate and manages her Procreate tools and drawings
-   - [`pet-program-39`](https://github.com/findastra/pet-program-39) -- pet program, not named yet
+    - [`pet-program-39`](https://github.com/findastra/pet-program-39) -- pet program, not named yet
 40. **[Skill Scout](https://github.com/findastra/pet-program-40)** -- watches the agent and skill files (AGENTS.md, CLAUDE.md, SKILL.md) for every AI assistant and model, and tracks what changed, who changed it and why
-   - [`pet-program-40`](https://github.com/findastra/pet-program-40) -- pet program, not named yet
+    - [`pet-program-40`](https://github.com/findastra/pet-program-40) -- pet program, not named yet
 41. **[OSC Sealion](https://github.com/findastra/pet-program-41)** -- monitors OSC packets and finds problems when several apps share channels to VRChat, OSCGoesBrrr and VRCFaceTracking
-   - [`pet-program-41`](https://github.com/findastra/pet-program-41) -- pet program, not named yet
+    - [`pet-program-41`](https://github.com/findastra/pet-program-41) -- pet program, not named yet
 42. **[Piranesi Nessi](https://github.com/findastra/pet-program-42)** -- Piranesi Nessi's world caretaker for Piranesi House: its Unity project, preview website and use of shared Unity Unicorn tools. Runtime is planned
-   - `nessis-ocean` -- the pet program
+    - `nessis-ocean` -- the pet program
 43. **[Photo Dodo](https://github.com/findastra/pet-program-43)** -- keeps track of all your saved pictures: where each one is, what it shows, and whether it is backed up
-   - [`pet-program-43`](https://github.com/findastra/pet-program-43) -- pet program, not named yet
+    - [`pet-program-43`](https://github.com/findastra/pet-program-43) -- pet program, not named yet
 44. **[Video Vulture](https://github.com/findastra/pet-program-44)** -- keeps track of all your saved videos, the same way Photo Dodo does for pictures: where each one is, what it shows, and whether it is backed up
-   - [`pet-program-44`](https://github.com/findastra/pet-program-44) -- pet program, not named yet
+    - [`pet-program-44`](https://github.com/findastra/pet-program-44) -- pet program, not named yet
 45. **[Closet Cat](https://github.com/findastra/the-cats-closet)** -- organizes your closet (what you own and what goes together) and keeps your favourite places to shop
-   - `pet-program-45` -- pet program, not named yet
+    - `pet-program-45` -- pet program, not named yet
 46. **[Gatekeeper Goddess](https://github.com/findastra/iron-gates)** -- security and approvals: human-facing approvals and security monitoring. Issues the grants and the short-lived agent keys; never approves her own
-   - [`iron-gates`](https://github.com/findastra/iron-gates) -- the pet program
+    - [`iron-gates`](https://github.com/findastra/iron-gates) -- the pet program
 47. **[Queue Quokka](https://github.com/findastra/pet-program-47)** -- tasks: watches retries, stalled jobs and agent handoffs
-   - [`pet-program-47`](https://github.com/findastra/pet-program-47) -- pet program, not named yet
+    - [`pet-program-47`](https://github.com/findastra/pet-program-47) -- pet program, not named yet
 48. **[Log Lynx](https://github.com/findastra/pet-program-48)** -- observability: correlates logs, traces, health and failures
-   - [`pet-program-48`](https://github.com/findastra/pet-program-48) -- pet program, not named yet
+    - [`pet-program-48`](https://github.com/findastra/pet-program-48) -- pet program, not named yet
 49. **[Server Salamander](https://github.com/findastra/pet-program-49)** -- hosts: home servers, uptime, service health
-   - [`pet-program-49`](https://github.com/findastra/pet-program-49) -- pet program, not named yet
+    - [`pet-program-49`](https://github.com/findastra/pet-program-49) -- pet program, not named yet
 50. **[Docker Dragon](https://github.com/findastra/pet-program-50)** -- containers: Docker health and authorized management
-   - [`pet-program-50`](https://github.com/findastra/pet-program-50) -- pet program, not named yet
+    - [`pet-program-50`](https://github.com/findastra/pet-program-50) -- pet program, not named yet
 51. **[Test Tortoise](https://github.com/findastra/pet-program-51)** -- quality: tests and release verification
-   - [`pet-program-51`](https://github.com/findastra/pet-program-51) -- pet program, not named yet
+    - [`pet-program-51`](https://github.com/findastra/pet-program-51) -- pet program, not named yet
 52. **[Token Toucan](https://github.com/findastra/pet-program-52)** -- AI cost: model tokens, budgets and inference usage
-   - [`pet-program-52`](https://github.com/findastra/pet-program-52) -- pet program, not named yet
+    - [`pet-program-52`](https://github.com/findastra/pet-program-52) -- pet program, not named yet
 53. **[Packet Piranha](https://github.com/findastra/pet-program-53)** -- network: packet loss, DNS, latency, routing
-   - [`pet-program-53`](https://github.com/findastra/pet-program-53) -- pet program, not named yet
+    - [`pet-program-53`](https://github.com/findastra/pet-program-53) -- pet program, not named yet
 54. **[Calendar Crow](https://github.com/findastra/pet-program-54)** -- calendar: scheduling, conflicts and reminders
-   - [`pet-program-54`](https://github.com/findastra/pet-program-54) -- pet program, not named yet
+    - [`pet-program-54`](https://github.com/findastra/pet-program-54) -- pet program, not named yet
 55. **[Browser Bat](https://github.com/findastra/pet-program-55)** -- web and marketing operations: website QA and authorized browser work
-   - [`pet-program-55`](https://github.com/findastra/pet-program-55) -- pet program, not named yet
+    - [`pet-program-55`](https://github.com/findastra/pet-program-55) -- pet program, not named yet
 56. **[Data Dragonfly](https://github.com/findastra/pet-program-56)** -- data engineering: data integrity, schemas, pipelines
-   - [`pet-program-56`](https://github.com/findastra/pet-program-56) -- pet program, not named yet
+    - [`pet-program-56`](https://github.com/findastra/pet-program-56) -- pet program, not named yet
 57. **[Update Urchin](https://github.com/findastra/pet-program-57)** -- dependency updates: packages, compatibility, rollback prep
-   - [`pet-program-57`](https://github.com/findastra/pet-program-57) -- pet program, not named yet
+    - [`pet-program-57`](https://github.com/findastra/pet-program-57) -- pet program, not named yet
 58. **[Linux Penguin](https://github.com/findastra/pet-program-58)** -- linux administration, SSH, systemd, packages
-   - [`pet-program-58`](https://github.com/findastra/pet-program-58) -- pet program, not named yet
+    - [`pet-program-58`](https://github.com/findastra/pet-program-58) -- pet program, not named yet
 59. **[Stock Fox](https://github.com/findastra/pet-program-59)** -- [job not chosen yet]
-   - [`pet-program-59`](https://github.com/findastra/pet-program-59) -- pet program, not named yet
+    - [`pet-program-59`](https://github.com/findastra/pet-program-59) -- pet program, not named yet
 60. **[Passport Pelican](https://github.com/findastra/pet-program-60)** -- passport/ID metadata, visa research and deadlines, encrypted
-   - [`pet-program-60`](https://github.com/findastra/pet-program-60) -- pet program, not named yet
+    - [`pet-program-60`](https://github.com/findastra/pet-program-60) -- pet program, not named yet
 61. **[Journal Jellyfish](https://github.com/findastra/pet-program-61)** -- private travel diary and itineraries
-   - [`pet-program-61`](https://github.com/findastra/pet-program-61) -- pet program, not named yet
+    - [`pet-program-61`](https://github.com/findastra/pet-program-61) -- pet program, not named yet
 62. **[Shell Squid](https://github.com/findastra/pet-program-62)** -- bash, terminal scripting and guarded automation
-   - [`pet-program-62`](https://github.com/findastra/pet-program-62) -- pet program, not named yet
+    - [`pet-program-62`](https://github.com/findastra/pet-program-62) -- pet program, not named yet
 63. **[Kernel Koala](https://github.com/findastra/pet-program-63)** -- processes, memory, drivers and OS internals
-   - [`pet-program-63`](https://github.com/findastra/pet-program-63) -- pet program, not named yet
+    - [`pet-program-63`](https://github.com/findastra/pet-program-63) -- pet program, not named yet
 64. **[Proxy Axolotl](https://github.com/findastra/pet-program-64)** -- reverse proxies, TLS and secure private remote access
-   - [`pet-program-64`](https://github.com/findastra/pet-program-64) -- pet program, not named yet
+    - [`pet-program-64`](https://github.com/findastra/pet-program-64) -- pet program, not named yet
 65. **[Cluster Crab](https://github.com/findastra/pet-program-65)** -- distributed services and orchestration
-   - [`pet-program-65`](https://github.com/findastra/pet-program-65) -- pet program, not named yet
+    - [`pet-program-65`](https://github.com/findastra/pet-program-65) -- pet program, not named yet
 66. **[Storage Stoat](https://github.com/findastra/pet-program-66)** -- NAS, ZFS, snapshots and capacity health
-   - [`pet-program-66`](https://github.com/findastra/pet-program-66) -- pet program, not named yet
+    - [`pet-program-66`](https://github.com/findastra/pet-program-66) -- pet program, not named yet
 67. **[White Hat Weasel](https://github.com/findastra/pet-program-67)** -- authorized security assessment and remediation
-   - [`pet-program-67`](https://github.com/findastra/pet-program-67) -- pet program, not named yet
+    - [`pet-program-67`](https://github.com/findastra/pet-program-67) -- pet program, not named yet
 68. **[Port Spider](https://github.com/findastra/pet-program-68)** -- authorized port and service exposure checks
-   - [`pet-program-68`](https://github.com/findastra/pet-program-68) -- pet program, not named yet
+    - [`pet-program-68`](https://github.com/findastra/pet-program-68) -- pet program, not named yet
 69. **[Cipher Owl](https://github.com/findastra/pet-program-69)** -- encryption, keys, certificates and crypto education
-   - [`pet-program-69`](https://github.com/findastra/pet-program-69) -- pet program, not named yet
+    - [`pet-program-69`](https://github.com/findastra/pet-program-69) -- pet program, not named yet
 70. **[Forensic Ferret](https://github.com/findastra/pet-program-70)** -- incident timelines and log analysis
-   - [`pet-program-70`](https://github.com/findastra/pet-program-70) -- pet program, not named yet
+    - [`pet-program-70`](https://github.com/findastra/pet-program-70) -- pet program, not named yet
 71. **[Llama Librarian](https://github.com/findastra/pet-program-71)** -- local model inventory, downloads and compatibility
-   - [`pet-program-71`](https://github.com/findastra/pet-program-71) -- pet program, not named yet
+    - [`pet-program-71`](https://github.com/findastra/pet-program-71) -- pet program, not named yet
 72. **[Inference Iguana](https://github.com/findastra/pet-program-72)** -- inference benchmarks, GPU/VRAM, latency
-   - [`pet-program-72`](https://github.com/findastra/pet-program-72) -- pet program, not named yet
+    - [`pet-program-72`](https://github.com/findastra/pet-program-72) -- pet program, not named yet
 73. **[Agent Ant](https://github.com/findastra/pet-program-73)** -- agent experiments and tool-use evaluation
-   - [`pet-program-73`](https://github.com/findastra/pet-program-73) -- pet program, not named yet
+    - [`pet-program-73`](https://github.com/findastra/pet-program-73) -- pet program, not named yet
 74. **[Roaming Raven](https://github.com/findastra/pet-program-74)** -- travel connectivity, VPN/tailnet and remote access
-   - [`pet-program-74`](https://github.com/findastra/pet-program-74) -- pet program, not named yet
+    - [`pet-program-74`](https://github.com/findastra/pet-program-74) -- pet program, not named yet
 75. **[Cache Coyote](https://github.com/findastra/pet-program-75)** -- offline-first documents, caches and queued actions
-   - [`pet-program-75`](https://github.com/findastra/pet-program-75) -- pet program, not named yet
+    - [`pet-program-75`](https://github.com/findastra/pet-program-75) -- pet program, not named yet
 76. **[Sync Mink](https://github.com/findastra/pet-program-76)** -- cross-device sync and conflict resolution
-   - [`pet-program-76`](https://github.com/findastra/pet-program-76) -- pet program, not named yet
+    - [`pet-program-76`](https://github.com/findastra/pet-program-76) -- pet program, not named yet
 77. **[pet-program-77-icon-77](https://github.com/findastra/pet-program-77)** -- triages the vet-clinic: labels tickets, checks them for leaked secrets, and tests offered cures in isolation. Never merges anything
-   - [`pet-program-77`](https://github.com/findastra/pet-program-77) -- pet program, not named yet
+    - [`pet-program-77`](https://github.com/findastra/pet-program-77) -- pet program, not named yet
 78. **[Pet Police Officer](https://github.com/findastra/the-police-station)** -- runs The Police Station: watches every write and every agent key use, live; switches a tool, connection or key OFF (never ON); alerts Gatekeeper Goddess and Astra (L4); raises the alarm everywhere on a live break or a past breach
-   - [`the-police-station`](https://github.com/findastra/the-police-station) -- the pet program
+    - [`the-police-station`](https://github.com/findastra/the-police-station) -- the pet program
 79. **[AI Dashund](https://github.com/findastra/ai-doghouse)** -- keeps vetted research on AI agents, agentic harnesses, security and provenance, applies it to Astra’s PetOS, and writes the research paper
-   - [`ai-doghouse`](https://github.com/findastra/ai-doghouse) -- the pet program
+    - [`ai-doghouse`](https://github.com/findastra/ai-doghouse) -- the pet program
 80. **[Rescue Retriever](https://github.com/findastra/the-recovery-room)** -- after a shutdown, rebuilds the farm from the verified release, restores clean backups from before the incident, and restarts everything in the safe order
-   - [`the-recovery-room`](https://github.com/findastra/the-recovery-room) -- the pet program
+    - [`the-recovery-room`](https://github.com/findastra/the-recovery-room) -- the pet program
