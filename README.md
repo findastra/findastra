@@ -32,10 +32,10 @@ Every pet is an intelligent app with four intelligence layers:
 How they all connect: [Astra's PetOS System Map](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
 
 1. **Friendly Farmer** · *The Farm* · [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra
-- [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
-- [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
-- [`vet-clinic`](https://github.com/findastra/vet-clinic) -- is your pet sick? Tickets and community cures for Astra's PetOS. Community answers are unverified and always carry a warning
-  
+   - *The Farm* · [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- home [moving to its own repo, the-farm]
+   - [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
+   - [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
+   - [`vet-clinic`](https://github.com/findastra/vet-clinic) -- is your pet sick? Tickets and community cures for Astra's PetOS. Community answers are unverified and always carry a warning
 2. **GitHub Goldfish** · [`github-goldfish`](https://github.com/findastra/github-goldfish) -- swims through every public word on a GitHub account and flags document-control, blatant, organizational and systemic errors
 3. **Chip** · *Data Dealer* · [`data-dealer`](https://github.com/findastra/data-dealer) -- reports the health of Data Dealer, Astra’s large and important data project: its site, data, services and open work, so she sees at a glance what needs her
 4. **API Fairy** · *API Fairy Ring* · [`api-fairy`](https://github.com/findastra/api-fairy) -- keeps notes about your API keys, never the keys themselves: where each lives and what uses it, which keys have gone stale, and which new keys to get. Lives in the corner of the Windows desktop
