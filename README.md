@@ -11,6 +11,8 @@
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
+- [`mommys-mommies`](https://github.com/findastra/mommys-mommies) -- planned management companion for Mommy's VRChat dance academy and entertainers club
+- [`the-astral-plane`](https://github.com/findastra/the-astral-plane) -- a bridge that brings an AI companion into VRChat
 
 ### Discord
 
@@ -21,6 +23,7 @@
 ### Web & More
 - [`fuzzbois`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
+- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- 👉 https://findastra.github.io — Astra's portfolio: worlds, projects, pets. The one place that connects Audra and Astra
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
@@ -52,14 +55,10 @@ How they all connect: [Astra's PetOS System Map](https://findastra.github.io/ast
    - [`unity-stable`](https://findastra.github.io/astras-pet-os/apps/unity-unicorn-20261008.html) -- the pet program
 6. **[Python Panther](https://github.com/findastra/learn-python)** -- a Python practice desk with short output exercises, answer checks and saved progress alongside the original lessons
    - [`python-jungle`](https://findastra.github.io/astras-pet-os/apps/learn-python-20261008.html) -- the pet program
-7. **[Astra Wisp](https://github.com/findastra/vrchat-ai-astra)** -- watches the health of VRChat AI Astra, both while she runs and while she is being worked on offline, so problems show up before a session
-   - [`ai-astra`](https://findastra.github.io/astras-pet-os/apps/vrchat-ai-astra-20261008.html) -- the pet program
 8. **[Health Hummy](https://github.com/findastra/health-hummy)** -- personal health tracker: weight lifting by body group and sets, cardio, and pole plans. Your data stays on your PC and is never committed
    - [`the-nectar-nest`](https://findastra.github.io/astras-pet-os/apps/health-hummy-20261008.html) -- the pet program
 9. **[Finance Finch](https://github.com/findastra/finance-finch)** -- personal finance tracker across your bank, savings and investment accounts. It reads balances and never moves money
    - [`nest-egg`](https://findastra.github.io/astras-pet-os/apps/finance-finch-20261008.html) -- the pet program
-10. **[Mommy's Mommies](https://github.com/findastra/mommys)** -- a local planning room for Mommy's classes and events, with session details, readiness and notes. Calendar and Discord connections are planned
-    - [`mommys-green-room`](https://findastra.github.io/astras-pet-os/apps/mommys-20261008.html) -- the pet program
 11. **[Patty](https://github.com/findastra/paper-girl)** -- runs Paper Girl, a free science discovery desk: real research, publisher explanations and fresh articles
     - [`paper-girl`](https://findastra.github.io/paper-girl/) -- the pet program
 12. **[File Master](https://github.com/findastra/file-master)** -- organizes your files and finds systemic errors. Shows every mass change before making it, with undo
@@ -111,7 +110,7 @@ How they all connect: [Astra's PetOS System Map](https://findastra.github.io/ast
 35. **[Chat Rat](https://github.com/findastra/chat-rat)** -- saves local AI conversations and imported exports, filed by model and YYYYMMDD date, with a button that opens each folder
     - `chat-stack` -- the pet program
 36. **[Platform Platypus](https://github.com/findastra/platform-platypus)** -- keeps Astra's pages working on iPhone, Android, iPad and desktop: shows a page on every device at once, checks it, tracks what each watched site still needs, and compares screenshots from two platforms
-    - `mirror-pool` -- the pet program
+    - [`mirror-pool`](https://findastra.github.io/platform-platypus/) -- the pet program
 37. **[Dubstep Gunsmith](https://github.com/findastra/pet-program-37)** -- catalogs avatar gun effects and loadouts for Astra’s avatars. Its source is still only on the PC, not on GitHub
     - `dubstep-armory` -- the pet program
 38. **[Pole Puff](https://github.com/findastra/pet-program-38)** -- manages Astra's Infinite Pole
@@ -200,3 +199,5 @@ How they all connect: [Astra's PetOS System Map](https://findastra.github.io/ast
     - [`ai-doghouse`](https://github.com/findastra/ai-doghouse) -- the pet program
 80. **[Rescue Retriever](https://github.com/findastra/the-recovery-room)** -- after a shutdown, rebuilds the farm from the verified release, restores clean backups from before the incident, and restarts everything in the safe order
     - [`the-recovery-room`](https://github.com/findastra/the-recovery-room) -- the pet program
+83. **[Role Fairy](https://github.com/findastra/role-fairy)** -- Runs Mommy’s Role Fairy, a cute single-choice Discord role picker: new members get a welcome-channel link to the picker and everyone can change their role any time
+    - `fairy-ring` -- the pet program
