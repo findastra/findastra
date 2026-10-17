@@ -30,6 +30,8 @@ Every pet is an intelligent app with four intelligence layers:
 -- 3. **Agentic Harness + AI Model or when seated is the "Agent"** (AI on demand through its own harness, asking before anything that matters)
 -- 4. **Human (User)**. The **Friendly Farmer** manages Your Farm.
 How they all connect: [Astra's PetOS System Map](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
+- [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
+- [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
 
 1. **Friendly Farmer** · *The Farm* · [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra
 2. **GitHub Goldfish** · [`github-goldfish`](https://github.com/findastra/github-goldfish) -- swims through every public word on a GitHub account and flags document-control, blatant, organizational and systemic errors
@@ -111,6 +113,3 @@ How they all connect: [Astra's PetOS System Map](https://github.com/findastra/as
 78. **Pet Police Officer** · *The Police Station* · [`the-police-station`](https://github.com/findastra/the-police-station) -- runs The Police Station: watches every write and every agent key use, live; switches a tool, connection or key OFF (never ON); alerts Gatekeeper Goddess and Astra (L4); raises the alarm everywhere on a live break or a past breach
 79. **AI Dashund** · *AI Doghouse* · [`ai-doghouse`](https://github.com/findastra/ai-doghouse) -- keeps vetted research on AI agents, agentic harnesses, security and provenance, applies it to Astra’s PetOS, and writes the research paper
 80. **Rescue Retriever** · *The Recovery Room* · [`the-recovery-room`](https://github.com/findastra/the-recovery-room) -- after a shutdown, rebuilds the farm from the verified release, restores clean backups from before the incident, and restarts everything in the safe order
-
-- [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
-- [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
