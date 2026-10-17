@@ -26,9 +26,9 @@
 
 | Level | Layer | What it is |
 |---|---|---|
-| **L1** | **Third Party Program(s) and Tools, & Tricks You Create** | The programs a pet runs, plus everything you build for it |
-| **L2** | **Pet Program** | A dashboard that manages L1 Programs, Tools & Tricks |
-| **L3** | **Pet Program's Agentic Harness + Your AI Model** | Your AI model (Claude, ChatGPT or a local model) takes the seat in the pet program's harness and becomes its Agent. It works on demand through the chatbot or a task, uses only that pet's tools and tricks, and always asks you before anything that matters |
+| **L1** | **Third Party Program(s), Native Programs, Tools & Tricks You Create** | The programs that a pet runs, plus everything you build for it |
+| **L2** | **Pet Program** | A dashboard that manages L1 programs and your tools, and manages your tricks |
+| **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) that sits in the agentic harness when called upon to become the Agent |
 | **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |
 
 How they all connect: [Astra's PetOS System Map](https://findastra.github.io/astras-pet-os/system-map-20261012.html)
