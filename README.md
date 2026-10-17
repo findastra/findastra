@@ -25,6 +25,8 @@
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
+**Pet (Intelligent App)**
+
 | Intelligence Level | Layer Components | What it is |
 |:---:|---|---|
 | **L1** | **Third Party Programs, Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
