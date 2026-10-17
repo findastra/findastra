@@ -9,7 +9,7 @@
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
-- [`vet-clinic`](https://github.com/findastra/vet-clinic) -- is your pet sick? Tickets and community cures for Astra's PetOS. Community answers are unverified and always carry a warning
+
 
 ### Discord
 
@@ -34,6 +34,7 @@ How they all connect: [Astra's PetOS System Map](https://github.com/findastra/as
 1. **Friendly Farmer** · *The Farm* · [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra
 - [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
 - [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
+- [`vet-clinic`](https://github.com/findastra/vet-clinic) -- is your pet sick? Tickets and community cures for Astra's PetOS. Community answers are unverified and always carry a warning
   
 2. **GitHub Goldfish** · [`github-goldfish`](https://github.com/findastra/github-goldfish) -- swims through every public word on a GitHub account and flags document-control, blatant, organizational and systemic errors
 3. **Chip** · *Data Dealer* · [`data-dealer`](https://github.com/findastra/data-dealer) -- reports the health of Data Dealer, Astra’s large and important data project: its site, data, services and open work, so she sees at a glance what needs her
