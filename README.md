@@ -23,7 +23,7 @@
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
-| Level | Layer | What it is |
+| Intelligence Level | Layer | What it is |
 |---|---|---|
 | **L1** | **Third Party Program(s), Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
 | **L2** | **Pet Program, Native Tricks you create** | A dashboard that manages L1 programs and tools, and manages your native L2 tricks |
