@@ -33,7 +33,7 @@
 How they all connect: [Astra's PetOS System Map](https://findastra.github.io/astras-pet-os/system-map-20261012.html)
 
 1. **Friendly Farmer** · *The Farm* · [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra
-   - [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- high level definitions for the OS
+   - [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- Astra's PetOS home repo
    - [`startup-star`](https://github.com/findastra/startup-star) -- the tray star that brings out your desktop pets
    - [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
    - [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
