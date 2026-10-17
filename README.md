@@ -27,7 +27,7 @@
 Every pet is an intelligent app with four intelligence layers:
 -- 1. **Third Party Programs, Programs and Tools You Create**
 -- 2. **Pet Program** (a dashboard that manages those programs and tools)
--- 3. **Agentic Harness + AI Model or when seated is the "Agent"** (AI on demand through its own harness, asking before anything that matters)
+-- 3. **Agentic Harness + AI Model, or, when seated is the "Agent"** (Pet Program has AI on demand through chatbot, and other executions, but always asks before anything that matters)
 -- 4. **Human (User)**. The **Friendly Farmer** manages Your Farm.
 How they all connect: [Astra's PetOS System Map](https://github.com/findastra/astras-pet-apps#how-the-herd-connects)
 
