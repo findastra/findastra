@@ -26,8 +26,8 @@
 
 | Level | Layer | What it is |
 |---|---|---|
-| **L1** | **Third Party Program(s), Native Programs, Tools & Tricks You Create** | The programs that a pet runs, plus everything you build for it |
-| **L2** | **Pet Program** | A dashboard that manages L1 programs and your tools, and manages your tricks |
+| **L1** | **Third Party Program(s), Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
+| **L2** | **Pet Program, Native Tricks you create** | A dashboard that manages L1 programs and tools, and manages your native L2 tricks |
 | **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) that sits in the agentic harness when called upon to become the Agent |
 | **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |
 
