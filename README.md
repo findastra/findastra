@@ -37,6 +37,7 @@
 | **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |
 
 How they all connect: [Astra's PetOS System Map](https://findastra.github.io/astras-pet-os/system-map-20261012.html)
+
 Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-pet-os)
 
 1. **[Friendly Farmer](https://github.com/findastra/astras-pet-os)** -- organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra
