@@ -21,7 +21,7 @@
 ### Web & More
 - [`fuzzboi-factory`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
-- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- 👉 https://findastra.github.io — Astra's  portfolio: worlds, projects, pets, and professional identity. The one place that connects Audra and Astra
+- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -— Astra's  portfolio: worlds, projects, pets, and professional identity
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
@@ -31,7 +31,7 @@
 |:---:|---|---|
 | **L1** | **Third Party Programs, Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
 | **L2** | **Pet Program, Native Tricks you create** | A dashboard that manages L1 programs and tools, and manages your native L2 tricks |
-| **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) that sits in the agentic harness when called upon to become the Agent |
+| **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) sits in the agentic harness when called upon to become the Agent |
 | **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |
 
 How they all connect: [Astra's PetOS System Map](https://findastra.github.io/astras-pet-os/system-map-20261012.html)
