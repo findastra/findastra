@@ -21,7 +21,7 @@
 ### Web & More
 - [`fuzzboi-factory`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
-- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -— Astra's  portfolio: worlds, projects, pets, and professional identity
+- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- Astra's  portfolio: worlds, projects, pets, and professional identity
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
