@@ -21,9 +21,9 @@
 - [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence) -- Contains the package for OpenAI Discord Presence, Anthropic Discord Presence, and the tools to add more model presence cards
 
 ### Web & More
-- [`fuzzbois`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
+- [`fuzzboi-factory`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
-- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- 👉 https://findastra.github.io — Astra's portfolio: worlds, projects, pets. The one place that connects Audra and Astra
+- [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- 👉 https://findastra.github.io — Astra's  portfolio: worlds, projects, pets, and professional identity. The one place that connects Audra and Astra
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
