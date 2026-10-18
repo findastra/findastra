@@ -62,7 +62,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
    - [`nest-egg`](https://findastra.github.io/astras-pet-os/apps/finance-finch-20261008.html) -- the pet program
 10. **[Mommy's Mommies](https://github.com/findastra/mommys-mommies)** -- a local planning room for Mommy's classes and events, with session details, readiness and notes. Calendar and Discord connections are planned
     - [`mommys-green-room`](https://findastra.github.io/astras-pet-os/apps/mommys-20261008.html) -- the pet program
-11. **[Patty](https://github.com/findastra/paper-girl)** -- runs Paper Girl, a free science discovery desk: real research, publisher explanations and fresh articles
+11. **[Paper Girl Patty](https://github.com/findastra/paper-girl)** -- runs Paper Girl, a free science discovery desk: real research, publisher explanations and fresh articles
     - [`paper-girl`](https://findastra.github.io/paper-girl/) -- the pet program
 12. **[File Master](https://github.com/findastra/file-master)** -- organizes your files and finds systemic errors. Shows every mass change before making it, with undo
     - [`file-kingdom`](https://findastra.github.io/astras-pet-os/apps/file-master-20261008.html) -- the pet program
