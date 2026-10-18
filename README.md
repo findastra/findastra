@@ -10,6 +10,7 @@
 
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Unity source, magical effects, and verified VRChat publication history for Astra's Infinite Pole. PC VR / desktop
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
+- [`liminal-doors`](https://github.com/findastra/liminal-doors) -- a VRChat world of doors that open onto quiet in-between places: an empty pool after closing, a laundrette with a sky turning in one washer, a platform between trains. Behind every door hides one little glass animal. Hatching now: the first door opens on Astra's pink phone booth, alone above a sea of pink clouds. PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
 
 ### Discord
