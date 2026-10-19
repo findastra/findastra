@@ -12,6 +12,7 @@
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
 - [`liminal-doors`](https://github.com/findastra/liminal-doors) -- a VRChat world of doors that open onto quiet in-between places: an empty pool after closing, a laundrette with a sky turning in one washer, a platform between trains. Behind every door hides one little glass animal. Hatching now: the first door opens on Astra's pink phone booth, alone above a sea of pink clouds. PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
+- [`unity-assets-library`](https://github.com/findastra/unity-assets-library) -- Astra's library of finished Unity world assets: each version a self-contained .unitypackage with previews and a manifest, exported by Unity Unicorn's unity-asset-creator
 
 ### Discord
 
@@ -40,81 +41,81 @@ How they all connect: [Astra's PetOS System Map](https://findastra.github.io/ast
 Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-pet-os)
 
 1. **[Friendly Farmer](https://github.com/findastra/astras-pet-os)** -- organizes the pets (intelligent apps). His daily rounds keep every pet’s status and mood, the roster, the System Map and the profile README up to date, and list what needs Astra
-   - [`the-farm`](https://findastra.github.io/astras-pet-os/apps/astras-pet-apps-20261008.html) -- the pet program
+   - [`the-farm`](https://findastra.github.io/astras-pet-os/apps/pet-programs/astras-pet-os-20261018.html) -- the pet program
    - [`startup-star`](https://github.com/findastra/startup-star) -- the tray star that brings out your desktop pets
    - [`the-kennel`](https://github.com/findastra/the-kennel) -- pets made by other people for Astra's PetOS. A stranger's pet until a farm checks and adopts it
    - [`the-shed`](https://github.com/findastra/the-shed) -- tools and tricks made by other creators for Astra's PetOS. Untrusted until a farm checks and adopts them
    - [`vet-clinic`](https://github.com/findastra/vet-clinic) -- is your pet sick? Tickets and community cures for Astra's PetOS. Community answers are unverified and always carry a warning
 2. **[GitHub Goldfish](https://github.com/findastra/github-goldfish)** -- swims through every public word on a GitHub account and flags document-control, blatant, organizational and systemic errors
-   - [`github-aquarium`](https://findastra.github.io/astras-pet-os/apps/github-goldfish-20261008.html) -- the pet program
-3. **[Chip](https://github.com/findastra/data-dealer)** -- reports the health of Data Dealer, Astra’s large and important data project: its site, data, services and open work, so she sees at a glance what needs her
-   - [`data-dealer`](https://findastra.github.io/astras-pet-os/apps/data-dealer-20261008.html) -- the pet program
+   - [`github-aquarium`](https://findastra.github.io/astras-pet-os/apps/pet-programs/github-goldfish-20261018.html) -- the pet program
+3. **Chip** -- reports the health of Data Dealer, Astra’s large and important data project: its site, data, services and open work, so she sees at a glance what needs her
+   - [`data-dealer`](https://findastra.github.io/astras-pet-os/apps/pet-programs/data-dealer-20261018.html) -- the pet program
 4. **[API Fairy](https://github.com/findastra/api-fairy)** -- keeps notes about your API keys, never the keys themselves: where each lives and what uses it, which keys have gone stale, and which new keys to get. Lives in the corner of the Windows desktop
-   - [`api-fairy-ring`](https://findastra.github.io/astras-pet-os/apps/api-fairy-20261008.html) -- the pet program
+   - [`api-fairy-ring`](https://findastra.github.io/astras-pet-os/apps/pet-programs/api-fairy-20261018.html) -- the pet program
 5. **[Unity Unicorn](https://github.com/findastra/unity-unicorn)** -- a local Unity and VRChat desk with avatar plans, 26 dated tools, open-arch audits, concise summaries and evidenced execution history
-   - [`unity-stable`](https://findastra.github.io/astras-pet-os/apps/unity-unicorn-20261008.html) -- the pet program
+   - [`unity-stable`](https://findastra.github.io/astras-pet-os/apps/pet-programs/unity-unicorn-20261018.html) -- the pet program
 6. **[Python Panther](https://github.com/findastra/learn-python)** -- a Python practice desk with short output exercises, answer checks and saved progress alongside the original lessons
-   - [`python-jungle`](https://findastra.github.io/astras-pet-os/apps/learn-python-20261008.html) -- the pet program
+   - [`python-jungle`](https://findastra.github.io/astras-pet-os/apps/pet-programs/learn-python-20261018.html) -- the pet program
 7. **[Astra Wisp](https://github.com/findastra/the-astral-plane)** -- watches the health of VRChat AI Astra, both while she runs and while she is being worked on offline, so problems show up before a session
-   - [`the-astral-plane`](https://findastra.github.io/astras-pet-os/apps/vrchat-ai-astra-20261008.html) -- the pet program
+   - [`the-astral-plane`](https://findastra.github.io/astras-pet-os/apps/pet-programs/the-astral-plane-20261018.html) -- the pet program
 8. **[Health Hummy](https://github.com/findastra/health-hummy)** -- personal health tracker: weight lifting by body group and sets, cardio, and pole plans. Your data stays on your PC and is never committed
-   - [`the-nectar-nest`](https://findastra.github.io/astras-pet-os/apps/health-hummy-20261008.html) -- the pet program
+   - [`the-nectar-nest`](https://findastra.github.io/astras-pet-os/apps/pet-programs/health-hummy-20261018.html) -- the pet program
 9. **[Finance Finch](https://github.com/findastra/finance-finch)** -- personal finance tracker across your bank, savings and investment accounts. It reads balances and never moves money
-   - [`nest-egg`](https://findastra.github.io/astras-pet-os/apps/finance-finch-20261008.html) -- the pet program
+   - [`nest-egg`](https://findastra.github.io/astras-pet-os/apps/pet-programs/finance-finch-20261018.html) -- the pet program
 10. **[Mommy's Mommies](https://github.com/findastra/mommys-mommies)** -- a local planning room for Mommy's classes and events, with session details, readiness and notes. Calendar and Discord connections are planned
-    - [`mommys-green-room`](https://findastra.github.io/astras-pet-os/apps/mommys-20261008.html) -- the pet program
+    - [`mommys-green-room`](https://findastra.github.io/astras-pet-os/apps/pet-programs/mommys-mommies-20261018.html) -- the pet program
 11. **[Paper Girl Patty](https://github.com/findastra/paper-girl)** -- runs Paper Girl, a free science discovery desk: real research, publisher explanations and fresh articles
-    - [`paper-girl`](https://findastra.github.io/paper-girl/) -- the pet program
+    - [`paper-girl`](https://findastra.github.io/astras-pet-os/apps/pet-programs/paper-girl-20261018.html) -- the pet program
 12. **[File Master](https://github.com/findastra/file-master)** -- organizes your files and finds systemic errors. Shows every mass change before making it, with undo
-    - [`file-kingdom`](https://findastra.github.io/astras-pet-os/apps/file-master-20261008.html) -- the pet program
+    - [`file-kingdom`](https://findastra.github.io/astras-pet-os/apps/pet-programs/file-master-20261018.html) -- the pet program
 13. **[Discord Damsel](https://github.com/findastra/findastra-discord-presence)** -- opens the installed OpenAI and Anthropic Discord presence controls, with a manual setup checklist
-    - [`discord-tower`](https://findastra.github.io/astras-pet-os/apps/findastra-discord-presence-20261008.html) -- the pet program
+    - [`discord-tower`](https://findastra.github.io/astras-pet-os/apps/pet-programs/findastra-discord-presence-20261018.html) -- the pet program
 14. **[Portfolio Puffer](https://github.com/findastra/portfolio-puffer)** -- drafts and tracks portfolio updates locally. GitHub and LinkedIn connections are planned; publishing is manual
-    - [`iced-out-iceberg`](https://findastra.github.io/astras-pet-os/apps/portfolio-puffer-20261008.html) -- the pet program
+    - [`iced-out-iceberg`](https://findastra.github.io/astras-pet-os/apps/pet-programs/portfolio-puffer-20261018.html) -- the pet program
 15. **[Drum Dog](https://github.com/findastra/drum-dog)** -- saves and samples music found online for Ableton Live, and plans releases: the first album, DJ mixes and where each one is hosted. Ableton Live connections are planned
-    - [`bass-biscuits`](https://findastra.github.io/astras-pet-os/apps/drum-dog-20261008.html) -- the pet program
+    - [`bass-biscuits`](https://findastra.github.io/astras-pet-os/apps/pet-programs/drum-dog-20261018.html) -- the pet program
 16. **[VSCode Angel](https://github.com/findastra/vscode-angel)** -- records code-review findings and next steps, then exports a Markdown worklist. Editor connections are planned
-    - [`halo-list`](https://findastra.github.io/astras-pet-os/apps/vscode-angel-20261008.html) -- the pet program
+    - [`halo-list`](https://findastra.github.io/astras-pet-os/apps/pet-programs/vscode-angel-20261018.html) -- the pet program
 17. **[Gone Ghost](https://github.com/findastra/ghost-protocol)** -- watches the public Ghost Protocol website and checks Astra’s own security against its research: a personal cybersecurity checklist and the steps she has completed
-    - [`am-i-a-ghost`](https://findastra.github.io/ghost-protocol/) -- the pet program
+    - [`am-i-a-ghost`](https://findastra.github.io/astras-pet-os/apps/pet-programs/ghost-protocol-20261018.html) -- the pet program
 18. **[Project Parrot](https://github.com/findastra/project-parrot)** -- periodically reviews OneNote for new project ideas and reminds Astra to start them [planned]
-    - [`idea-perch`](https://findastra.github.io/astras-pet-os/apps/project-parrot-20261008.html) -- the pet program
+    - [`idea-perch`](https://findastra.github.io/astras-pet-os/apps/pet-programs/project-parrot-20261018.html) -- the pet program
 19. **[Voicemeeter Bug](https://github.com/findastra/voicemeeter-bug)** -- a small Windows desktop pet for restarting Voicemeeter's audio engine when audio needs repair. Its browser page explains how to open the installed app
-    - [`audio-rescue`](https://findastra.github.io/astras-pet-os/apps/voicemeeter-bug-20261008.html) -- the pet program
+    - [`audio-rescue`](https://findastra.github.io/astras-pet-os/apps/pet-programs/voicemeeter-bug-20261018.html) -- the pet program
 20. **[Sugarcube](https://github.com/findastra/spoonfed)** -- helps choose where to eat by spinning restaurant choices while respecting locked preferences and keeping favorite spots
-    - [`spoonfed`](https://github.com/findastra/spoonfed) -- the pet program
+    - [`spoonfed`](https://findastra.github.io/astras-pet-os/apps/pet-programs/spoonfed-20261018.html) -- the pet program
 21. **Claude Bot** -- Claude’s twin of ChatGPT’s BSOD desktop pet, in looks and in function: an orange face on the Windows desktop that shows Claude’s live status in a bubble and opens quick chat
-    - `claude-dock` -- the pet program
+    - [`claude-dock`](https://findastra.github.io/astras-pet-os/apps/pet-programs/claude-bot-20261018.html) -- the pet program
 22. **[RGBee](https://github.com/findastra/rgbee)** -- plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard. Sending scenes to the real lights is planned
-    - `light-hive` -- the pet program
+    - [`light-hive`](https://findastra.github.io/astras-pet-os/apps/pet-programs/rgbee-20261018.html) -- the pet program
 23. **[Mine Mole](https://github.com/findastra/mine-mole)** -- manages the cryptocurrency mining program on Astra’s PC and checks whether mining is worth the power
-    - `crypto-burrow` -- the pet program
+    - [`crypto-burrow`](https://findastra.github.io/astras-pet-os/apps/pet-programs/mine-mole-20261018.html) -- the pet program
 24. **[Mail Snail](https://github.com/findastra/mail-snail)** -- organizes your mail: sorts it, cleans it up and deletes what you no longer need, always with your OK first. Connects to no mail account yet
-    - `mail-shell` -- the pet program
+    - [`mail-shell`](https://findastra.github.io/astras-pet-os/apps/pet-programs/mail-snail-20261018.html) -- the pet program
 25. **[Patch Cat](https://github.com/findastra/patch-cat)** -- keeps Windows, drivers and apps patched against security holes (its confirmed security role; the rest of its job is Astra’s to choose)
-    - `the-litter-box` -- the pet program
+    - [`the-litter-box`](https://findastra.github.io/astras-pet-os/apps/pet-programs/patch-cat-20261018.html) -- the pet program
 26. **[Meme Fiend](https://github.com/findastra/meme-fiend)** -- archives your favourite memes, especially from Discord, and will run a tool for making your own (not built yet). Your memes stay on your PC
-    - `cursed-archive` -- the pet program
+    - [`cursed-archive`](https://findastra.github.io/astras-pet-os/apps/pet-programs/meme-fiend-20261018.html) -- the pet program
 27. **[Gif Giraffe](https://github.com/findastra/astras-gif-maker)** -- makes GIFs in the browser
-    - [`astras-gif-maker`](https://github.com/findastra/astras-gif-maker) -- the pet program
+    - [`astras-gif-maker`](https://findastra.github.io/astras-pet-os/apps/pet-programs/astras-gif-maker-20261018.html) -- the pet program
 28. **[Backup Beaver](https://github.com/findastra/backup-beaver)** -- like API Fairy for backups: keeps track of when the last backup ran, where it is, and how to get to it
-    - `backup-dam` -- the pet program
+    - [`backup-dam`](https://findastra.github.io/astras-pet-os/apps/pet-programs/backup-beaver-20261018.html) -- the pet program
 29. **[Rift Rabbit](https://github.com/findastra/rift-rabbit)** -- a white rabbit that preps and tracks VR software and performance
-    - `wonderland-launchpad` -- the pet program
+    - [`wonderland-launchpad`](https://findastra.github.io/astras-pet-os/apps/pet-programs/rift-rabbit-20261018.html) -- the pet program
 30. **[Fuzzboi Friend](https://github.com/findastra/fuzzboi-friend)** -- watches over the Fuzzbois website, which generates the Fuzzboi art, and shows its health with his mood. Mostly for fun: swap his look any time
-    - [`fuzzboi-factory`](https://findastra.github.io/fuzzboi-friend/fuzzboi-friend-20261009.html) -- the pet program
+    - [`fuzzboi-factory`](https://findastra.github.io/astras-pet-os/apps/pet-programs/fuzzboi-friend-20261018.html) -- the pet program
 31. **[Wifi Butterfly](https://github.com/findastra/wifi-butterfly)** -- watches the radios: unknown Wi-Fi networks and Bluetooth devices nearby (its confirmed security role; the rest of its job is Astra’s to choose)
-    - `signal-garden` -- the pet program
+    - [`signal-garden`](https://findastra.github.io/astras-pet-os/apps/pet-programs/wifi-butterfly-20261018.html) -- the pet program
 32. **[Deck Duck](https://github.com/findastra/deck-duck)** -- helps you manage your Elgato Stream Deck: what every button does, on every profile
-    - `deck-pond` -- the pet program
+    - [`deck-pond`](https://findastra.github.io/astras-pet-os/apps/pet-programs/deck-duck-20261018.html) -- the pet program
 33. **[Mesh Moth](https://github.com/findastra/mesh-moth)** -- manages Astra’s Meshtastic node: its place in the radio mesh, its health and its messages
-    - `mesh-lantern` -- the pet program
+    - [`mesh-lantern`](https://findastra.github.io/astras-pet-os/apps/pet-programs/mesh-moth-20261018.html) -- the pet program
 34. **[Raspberry Pi Berry](https://github.com/findastra/raspberry-berry)** -- keeps track of Astra’s Raspberry Pi projects and tells her which Pis need a backup or an OS update
-    - `raspberry-pi-maker` -- the pet program
+    - [`raspberry-pi-maker`](https://findastra.github.io/astras-pet-os/apps/pet-programs/raspberry-berry-20261018.html) -- the pet program
 35. **[Chat Rat](https://github.com/findastra/chat-rat)** -- saves local AI conversations and imported exports, filed by model and YYYYMMDD date, with a button that opens each folder
-    - `chat-stack` -- the pet program
+    - [`chat-stack`](https://findastra.github.io/astras-pet-os/apps/pet-programs/chat-rat-20261018.html) -- the pet program
 36. **[Platform Platypus](https://github.com/findastra/platform-platypus)** -- keeps Astra's pages working on iPhone, Android, iPad and desktop: shows a page on every device at once, checks it, tracks what each watched site still needs, and compares screenshots from two platforms
-    - [`mirror-pool`](https://findastra.github.io/platform-platypus/) -- the pet program
+    - [`mirror-pool`](https://findastra.github.io/astras-pet-os/apps/pet-programs/platform-platypus-20261018.html) -- the pet program
 37. **[Dubstep Gunsmith](https://github.com/findastra/dubstep-armory)** -- catalogs avatar gun effects and loadouts for Astra’s avatars. Its source is still only on the PC, not on GitHub
     - [`dubstep-armory`](https://github.com/findastra/dubstep-armory) -- the pet program
 38. **[Pole Puff](https://github.com/findastra/infinite-studio)** -- manages Astra's Infinite Pole
@@ -138,7 +139,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
 47. **[Queue Quokka](https://github.com/findastra/task-island)** -- tasks: watches retries, stalled jobs and agent handoffs
     - [`task-island`](https://github.com/findastra/task-island) -- the pet program
 48. **[Log Lynx](https://github.com/findastra/log-den)** -- observability: correlates logs, traces, health and failures
-    - [`log-den`](https://github.com/findastra/log-den) -- the pet program
+    - [`log-den`](https://findastra.github.io/astras-pet-os/apps/pet-programs/log-den-20261018.html) -- the pet program
 49. **[Server Salamander](https://github.com/findastra/server-hearth)** -- hosts: home servers, uptime, service health
     - [`server-hearth`](https://github.com/findastra/server-hearth) -- the pet program
 50. **[Docker Dragon](https://github.com/findastra/container-hoard)** -- containers: Docker health and authorized management
@@ -148,7 +149,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
 52. **[Token Toucan](https://github.com/findastra/token-canopy)** -- AI cost: model tokens, budgets and inference usage
     - [`token-canopy`](https://github.com/findastra/token-canopy) -- the pet program
 53. **[Packet Piranha](https://github.com/findastra/packet-river)** -- network: packet loss, DNS, latency, routing
-    - [`packet-river`](https://github.com/findastra/packet-river) -- the pet program
+    - [`packet-river`](https://findastra.github.io/astras-pet-os/apps/pet-programs/packet-river-20261018.html) -- the pet program
 54. **[Calendar Crow](https://github.com/findastra/crows-nest)** -- calendar: scheduling, conflicts and reminders
     - [`crows-nest`](https://github.com/findastra/crows-nest) -- the pet program
 55. **[Browser Bat](https://github.com/findastra/browser-belfry)** -- web and marketing operations: website QA and authorized browser work
@@ -182,7 +183,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
 69. **[Cipher Owl](https://github.com/findastra/cipher-hollow)** -- encryption, keys, certificates and crypto education
     - [`cipher-hollow`](https://github.com/findastra/cipher-hollow) -- the pet program
 70. **[Forensic Ferret](https://github.com/findastra/evidence-locker)** -- incident timelines and log analysis
-    - [`evidence-locker`](https://github.com/findastra/evidence-locker) -- the pet program
+    - [`evidence-locker`](https://findastra.github.io/astras-pet-os/apps/pet-programs/evidence-locker-20261018.html) -- the pet program
 71. **[Llama Librarian](https://github.com/findastra/model-library)** -- local model inventory, downloads and compatibility
     - [`model-library`](https://github.com/findastra/model-library) -- the pet program
 72. **[Inference Iguana](https://github.com/findastra/benchmark-rock)** -- inference benchmarks, GPU/VRAM, latency
@@ -208,4 +209,6 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
 82. **[Door Dormouse](https://github.com/findastra/the-threshold)** -- door Dormouse manages Liminal Doors: floors, build choices, tools, Unity project metadata and preview website. Browser prototype; L3 and Unity execution are not connected
     - [`the-threshold`](https://github.com/findastra/the-threshold) -- the pet program
 83. **[Role Fairy](https://github.com/findastra/role-fairy)** -- runs Fairy Ring: every Discord bot Astra uses. Sets up and looks after a bot for each server, starting with role pickers; assigns or changes members’ roles when asked; and keeps each bot’s permissions, servers and health in one place, only where she has been granted. Discord Damsel keeps Astra’s own presence
-    - `fairy-ring` -- the pet program
+    - [`fairy-ring`](https://findastra.github.io/astras-pet-os/apps/pet-programs/role-fairy-20261018.html) -- the pet program
+84. **Workflow Whale** -- pairs a private PC screen with an iPad for deliberate captures, PencilKit markup, handwritten notes, image return and separately enabled remote scrolling
+    - [`workflow-whirlpool`](https://findastra.github.io/astras-pet-os/apps/pet-programs/workflow-whirlpool-20261018.html) -- the pet program
