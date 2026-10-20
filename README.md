@@ -27,7 +27,7 @@
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
 - [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- Astra's  portfolio: worlds, projects, pets, and professional identity
 - [`pocket-message-board`](https://github.com/findastra/pocket-message-board) -- a scrolling LED sign for any screen. You choose the letters and colors
-- [`astras-star-window`](https://github.com/findastra/astras-star-window) -- a fat star window that fades between my favorite pictures of my avatar. One hosted picture: change it once and it changes everywhere
+- [`astras-photo-star`](https://github.com/findastra/astras-photo-star) -- make your own photo star: put your favorite photos in a fat neon star and download it. Your photos never leave your device
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
@@ -76,6 +76,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`discord-tower`](https://findastra.github.io/astras-pet-os/apps/pet-programs/findastra-discord-presence-20261018.html) -- the pet program
 14. **[Portfolio Puffer](https://github.com/findastra/portfolio-puffer)** -- drafts and tracks portfolio updates locally. GitHub and LinkedIn connections are planned; publishing is manual
     - [`iced-out-iceberg`](https://findastra.github.io/astras-pet-os/apps/pet-programs/portfolio-puffer-20261018.html) -- the pet program
+    - [`astras-star-window`](https://github.com/findastra/astras-star-window) -- my own photo star, next to the title up top: one hosted picture, and Puffer's tool changes it everywhere
 15. **[Drum Dog](https://github.com/findastra/drum-dog)** -- saves and samples music found online for Ableton Live, and plans releases: the first album, DJ mixes and where each one is hosted. Ableton Live connections are planned
     - [`bass-biscuits`](https://findastra.github.io/astras-pet-os/apps/pet-programs/drum-dog-20261018.html) -- the pet program
 16. **[VSCode Angel](https://github.com/findastra/vscode-angel)** -- records code-review findings and next steps, then exports a Markdown worklist. Editor connections are planned
