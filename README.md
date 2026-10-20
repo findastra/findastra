@@ -14,7 +14,6 @@
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
 - [`liminal-doors`](https://github.com/findastra/liminal-doors) -- a VRChat world of doors that open onto quiet in-between places: an empty pool after closing, a laundrette with a sky turning in one washer, a platform between trains. Behind every door hides one little glass animal. Hatching now: the first door opens on Astra's pink phone booth, alone above a sea of pink clouds. PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
-- [`the-hayloft`](https://github.com/findastra/unity-assets-library) -- pieces from Astra's VRChat worlds, ready to drop into your own Unity world, starting with the pink phone booth from Liminal Doors
 
 ### Discord
 
@@ -28,18 +27,3 @@
 - [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- Astra's  portfolio: worlds, projects, pets, and professional identity
 - [`pocket-message-board`](https://github.com/findastra/pocket-message-board) -- a scrolling LED sign for any screen. You choose the letters and colors
 - [`astras-photo-star`](https://github.com/findastra/astras-photo-star) -- make your own photo star: put your favorite photos in a fat neon star and download it. Your photos never leave your device
-
-### Astra's PetOS - Free, Open-Source AI Operating System
-
-**Pet (Intelligent App)**
-
-| Intelligence Level | Layer Components | What it is |
-|:---:|---|---|
-| **L1** | **Third Party Programs, Native Programs & Tools you create** | The programs that a pet runs, plus everything you build for it |
-| **L2** | **Pet Program, Native Tricks you create** | A dashboard that manages L1 programs and tools, and manages your native L2 tricks |
-| **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) sits in the agentic harness when called upon to become the Agent |
-| **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |
-
-How they all connect: [Astra's PetOS System Map](https://findastra.github.io/astras-pet-os/system-map-20261012.html)
-
-Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-pet-os)
