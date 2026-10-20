@@ -1,3 +1,5 @@
+<a href="https://findastra.github.io/astras-star-window/"><img align="right" width="160" src="https://findastra.github.io/astras-star-window/star-window.svg" alt="Astra's Star Window: a fat star fading between pictures of Astra's avatar"></a>
+
 <h2 align="center">.·✧ ˚+. Hi, I'm Astra .× ˚·✧·</h2>
 
 <p align="center">noncorporeal-dancer | reality‑hacker | vibe‑coder | digital-nomad</p>
@@ -25,6 +27,7 @@
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
 - [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- Astra's  portfolio: worlds, projects, pets, and professional identity
 - [`pocket-message-board`](https://github.com/findastra/pocket-message-board) -- a scrolling LED sign for any screen. You choose the letters and colors
+- [`astras-star-window`](https://github.com/findastra/astras-star-window) -- a fat star window that fades between my favorite pictures of my avatar. One hosted picture: change it once and it changes everywhere
 
 ### Astra's PetOS - Free, Open-Source AI Operating System
 
