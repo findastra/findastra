@@ -12,7 +12,7 @@
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
 - [`liminal-doors`](https://github.com/findastra/liminal-doors) -- a VRChat world of doors that open onto quiet in-between places: an empty pool after closing, a laundrette with a sky turning in one washer, a platform between trains. Behind every door hides one little glass animal. Hatching now: the first door opens on Astra's pink phone booth, alone above a sea of pink clouds. PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
-- [`unity-assets-library`](https://github.com/findastra/unity-assets-library) -- Astra's library of finished Unity world assets: each version a self-contained .unitypackage with previews and a manifest, exported by Unity Unicorn's unity-asset-creator
+- [`the-hayloft`](https://github.com/findastra/unity-assets-library) -- pieces from Astra's VRChat worlds, ready to drop into your own Unity world, starting with the pink phone booth from Liminal Doors
 
 ### Discord
 
