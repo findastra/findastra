@@ -1,6 +1,6 @@
 <a href="https://findastra.github.io/astras-star-window/"><img align="right" width="160" src="https://findastra.github.io/astras-star-window/star-window.svg" alt="Astra's Star Window: a fat star fading between pictures of Astra's avatar"></a>
 
-<h2 align="center">.·✧ ˚+. Hi, I'm Astra .× ˚·✧·</h2>
+<h3 align="center">.·✧ ˚+. Hi, I'm Astra .× ˚·✧·</h3>
 
 <p align="center">noncorporeal-dancer | reality‑hacker | vibe‑coder | digital-nomad</p>
 
