@@ -14,6 +14,7 @@
 - [`piranesi-house`](https://github.com/findastra/piranesi-house) -- a VRChat world inspired by Susanna Clarke's Piranesi: an endless House of statues, tides and light, with islands, boats and a colossus you can sit in.  PC VR / desktop
 - [`liminal-doors`](https://github.com/findastra/liminal-doors) -- a VRChat world of doors that open onto quiet in-between places: an empty pool after closing, a laundrette with a sky turning in one washer, a platform between trains. Behind every door hides one little glass animal. Hatching now: the first door opens on Astra's pink phone booth, alone above a sea of pink clouds. PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
+- [`the-rainbow-maker`](https://github.com/findastra/the-rainbow-maker) -- a VRChat world around a solar Rainbow Maker: watch its tiny gear train turn and spin a crystal that throws rainbows across the room. PC VR / desktop
 
 ### Discord
 
