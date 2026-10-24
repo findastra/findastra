@@ -16,6 +16,7 @@
 - [`mommys-world`](https://github.com/findastra/mommys-world) -- the VRChat home of Mommy's, the dance academy and entertainers club: a Rave House, a Dance Academy and more, made from scratch with every maker and every bit of AI help written down. Seeded: design first, no Unity yet
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
 - [`the-rainbow-maker`](https://github.com/findastra/the-rainbow-maker) -- a VRChat world around a solar Rainbow Maker: watch its tiny gear train turn and spin a crystal that throws rainbows across the room. PC VR / desktop
+- [`the-cooling-tower`](https://github.com/findastra/the-cooling-tower) -- a VRChat rave world inside a nuclear plant's cooling tower: dance where the steam should rise, under coloured smoke and a ring of sky, then slip down to the reactor hall, where the open core glows blue under the DJ. Seeded: design first, no Unity yet
 
 ### Discord
 
