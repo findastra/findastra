@@ -1,5 +1,5 @@
 # The Friendly Farmer's profile round: keeps this README's repo lists matched to GitHub.
-# The script lives in the Cage (findastra/astras-pet-apps, scripts/farmer-profile-20261009.mjs).
+# The script lives in the Cage (findastra/astras-pet-os, scripts/farmer-profile-20261009.mjs).
 # It only touches the repo lists; the header, socials and Astra's own blurbs stay as written.
 # Claude Opus 5.5 (claude-opus-5-5), 2026-10-09.
 name: Friendly Farmer's profile round
@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
         with:
-          repository: findastra/astras-pet-apps
+          repository: findastra/astras-pet-os
           path: .cage
           sparse-checkout: |
             pets.json
