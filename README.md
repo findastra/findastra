@@ -28,4 +28,4 @@
 - [`mommys-website`](https://github.com/findastra/mommys-website) -- overall plan and website for Mommy's, a VRChat rave house, dance & avatar academy
 - [`findastra.github.io`](https://github.com/findastra/findastra.github.io) -- Astra's  portfolio: worlds, projects, pets, and professional identity
 - [`pocket-message-board`](https://github.com/findastra/pocket-message-board) -- a scrolling LED sign for any screen. You choose the letters and colors
-- [`astras-photostar`](https://github.com/findastra/astras-photo-star) -- make your own photo star: put your favorite photos in a fat neon star and download it. Your photos never leave your device
+- [`astras-photostar`](https://github.com/findastra/astras-photostar) -- make your own photostar: put up to 5 photos in a fat neon star and download it. Your photos never leave your device
