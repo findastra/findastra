@@ -10,7 +10,7 @@
 
 ### VR & VRChat
 - [`astras-infinite-pole`](https://github.com/findastra/astras-infinite-pole) -- Verified publication history for Astra's Infinite Pole, a VRChat world with an infinite pole, spiral staircase, phone booths that can talk to each other no matter how far down you fall, with tons of glitter too. PC VR / desktop
-- [`piranesi-house`](https://github.com/findastra/piranesi-house) -- Verified publication history for a Piranesi House, a VRChat world inspired by Susanna Clarke's Piranesi: an endless labyrinth of marble statues on an island, with a tide that rises and falls, a colossus you can sit in, and a very special developers' easter egg. PC VR / desktop
+- [`piranesi-house`](https://github.com/findastra/piranesi-house) -- Verified publication history for Piranesi House, a VRChat world inspired by Susanna Clarke's Piranesi: an endless labyrinth of marble statues on an island, with a tide that rises and falls, a colossus you can sit in, and a very special developers' easter egg. PC VR / desktop
 - [`liminal-doors`](https://github.com/findastra/liminal-doors) -- Verified publication history for Liminal Doors, a VRChat world of doors that open onto quiet in-between places: an empty pool after closing, a laundrette with a sky turning in one washer, a platform between trains. Every liminal door space hides a unique crystal animal. Collect them all with the collectors map website. PC VR / desktop
 - [`mommys-world`](https://github.com/findastra/mommys-world) -- Verified publication history for Mommy's World, the VRChat home of Mommy's Rave House, Dance & Avatar Academy. PC VR / desktop
 - [`detour-into-vr`](https://github.com/findastra/detour-into-vr) -- Astra's setup for streaming DETOUR Mile 04, an IRL + VR rave, to TikTok LIVE from VRChat
