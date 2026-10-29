@@ -21,7 +21,7 @@
 - [`moodglass`](https://github.com/findastra/moodglass) -- BetterDiscord photo-chat backgrounds: blended mosaics, click-to-refresh categories, and optional full-screen James Webb images
 - [`openai-discord-presence`](https://github.com/findastra/openai-discord-presence) -- OpenAI Discord Presence card
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- Anthropic Discord Presence card
-- [`findastra-discord-presence`](https://github.com/findastra/findastra-discord-presence) -- Contains the package for OpenAI Discord Presence, Anthropic Discord Presence, and the tools to add more model presence cards
+- [`ai-discord-presence`](https://github.com/findastra/ai-discord-presence) -- Contains the package for OpenAI Discord Presence, Anthropic Discord Presence, and the tools to add more model presence cards
 
 ### Web & More
 - [`fuzzboi-factory`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
