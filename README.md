@@ -73,7 +73,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`file-kingdom`](https://findastra.github.io/astras-pet-os/apps/pet-programs/file-master-20261018.html) -- the pet program
 13. **Discord Damsel** -- opens the installed OpenAI, Anthropic and Ableton Live Discord presence controls, with a manual setup checklist
     - [`discord-tower`](https://findastra.github.io/astras-pet-os/apps/pet-programs/discord-tower-20261018.html) -- the pet program
-14. **Portfolio Puffer** -- drafts and tracks portfolio updates locally. GitHub and LinkedIn connections are planned; publishing is manual
+14. **Portfolio Puffer** -- looks after Astra's portfolio, findastra.github.io, and her GitHub profile's Window Star and hand lettering, and drafts portfolio updates for her OK. LinkedIn is planned; publishing stays hers
     - [`iced-out-iceberg`](https://findastra.github.io/astras-pet-os/apps/pet-programs/portfolio-puffer-20261018.html) -- the pet program
     - [`astras-star-window`](https://github.com/findastra/astras-star-window) -- a fat star window that fades between Astra's favorite pictures of her avatar: one hosted picture, changed from Portfolio Puffer
 15. **Drum Dog** -- saves and samples music found online for Ableton Live, and plans releases: the first album, DJ mixes and where each one is hosted. Ableton Live connections are planned
@@ -84,7 +84,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`am-i-a-ghost`](https://findastra.github.io/astras-pet-os/apps/pet-programs/ghost-protocol-20261018.html) -- the pet program
 18. **Project Parrot** -- periodically reviews OneNote for new project ideas and reminds Astra to start them [planned]
     - [`idea-perch`](https://findastra.github.io/astras-pet-os/apps/pet-programs/project-parrot-20261018.html) -- the pet program
-19. **Voicemeeter Bug** -- a small Windows desktop pet for restarting Voicemeeter's audio engine when audio needs repair. Its browser page explains how to open the installed app
+19. **Voicemeeter Bug** -- looks after Voicemeeter on Windows: restarts its audio engine when sound needs repair, opens it again if it closes, and listens for robotic sound
     - [`audio-rescue`](https://findastra.github.io/astras-pet-os/apps/pet-programs/voicemeeter-bug-20261018.html) -- the pet program
 20. **Spoonfed Sugarcube** -- helps choose where to eat by spinning restaurant choices while respecting locked preferences and keeping favorite spots
     - [`spoonfed`](https://findastra.github.io/astras-pet-os/apps/pet-programs/spoonfed-20261018.html) -- the pet program
@@ -130,6 +130,8 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`iron-gates`](https://findastra.github.io/astras-pet-os/apps/pet-programs/iron-gates-20261018.html) -- the pet program
 48. **Log Lynx** -- observability: correlates logs, traces, health and failures
     - [`log-den`](https://findastra.github.io/astras-pet-os/apps/pet-programs/log-den-20261018.html) -- the pet program
+49. **Server Salamander** -- hosts: home servers, uptime, service health
+    - [`server-hearth`](https://findastra.github.io/astras-pet-os/apps/pet-programs/server-hearth-20261018.html) -- the pet program
 53. **Packet Piranha** -- network: packet loss, DNS, latency, routing
     - [`packet-river`](https://findastra.github.io/astras-pet-os/apps/pet-programs/packet-river-20261018.html) -- the pet program
 58. **Linux Penguin** -- linux administration, SSH, systemd, packages
@@ -140,6 +142,8 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`kernel-grove`](https://findastra.github.io/astras-pet-os/apps/pet-programs/kernel-grove-20261018.html) -- the pet program
 67. **White Hat Weasel** -- authorized security assessment and remediation
     - [`white-hat-lab`](https://findastra.github.io/astras-pet-os/apps/pet-programs/white-hat-lab-20261018.html) -- the pet program
+68. **Port Spider** -- authorized port and service exposure checks
+    - [`port-web`](https://findastra.github.io/astras-pet-os/apps/pet-programs/port-web-20261018.html) -- the pet program
 69. **Cipher Owl** -- encryption, keys, certificates and crypto education
     - [`cipher-hollow`](https://findastra.github.io/astras-pet-os/apps/pet-programs/cipher-hollow-20261018.html) -- the pet program
 70. **Forensic Ferret** -- incident timelines and log analysis
@@ -152,7 +156,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`the-police-station`](https://findastra.github.io/astras-pet-os/apps/pet-programs/the-police-station-20261018.html) -- the pet program
 79. **AI Dashund** -- keeps vetted research on AI agents, agentic harnesses, security and provenance, applies it to Astra’s PetOS, and writes the research paper
     - [`ai-doghouse`](https://findastra.github.io/astras-pet-os/apps/pet-programs/ai-doghouse-20261018.html) -- the pet program
-82. **Door Dormouse** -- door Dormouse manages Liminal Doors: floors, build choices, tools, Unity project metadata and preview website. Browser prototype; L3 and Unity execution are not connected
+82. **Door Dormouse** -- door Dormouse looks after Liminal Doors, Astra's VRChat world of doors: 34 Doorspaces built in Unity, the concept art for every floor, the tools that made them and the found floors page. Not uploaded to VRChat yet; L3 is not connected
     - [`the-threshold`](https://findastra.github.io/astras-pet-os/apps/pet-programs/the-threshold-20261018.html) -- the pet program
 83. **Role Fairy** -- runs Fairy Ring: every Discord bot Astra uses. Sets up and looks after a bot for each server, starting with role pickers; assigns or changes members’ roles when asked; and keeps each bot’s permissions, servers and health in one place, only where she has been granted. Discord Damsel keeps Astra’s own presence
     - [`fairy-ring`](https://findastra.github.io/astras-pet-os/apps/pet-programs/role-fairy-20261018.html) -- the pet program
