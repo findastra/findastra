@@ -90,7 +90,7 @@ Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-p
     - [`spoonfed`](https://findastra.github.io/astras-pet-os/apps/pet-programs/spoonfed-20261018.html) -- the pet program
 21. **Claude Bot** -- Claude’s twin of ChatGPT’s BSOD desktop pet, in looks and in function: an orange face on the Windows desktop that shows Claude’s live status in a bubble and opens quick chat
     - [`claude-dock`](https://findastra.github.io/astras-pet-os/apps/pet-programs/claude-bot-20261018.html) -- the pet program
-22. **RGBee** -- plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard. Sending scenes to the real lights is planned
+22. **RGBee** -- plans lighting scenes for every RGB light in the room and sends them to the lights it reaches: the Razer mic and headset today. Govee lights wait on LAN Control; the Corsair keyboard and MSI board need their own apps
     - [`light-hive`](https://findastra.github.io/astras-pet-os/apps/pet-programs/rgbee-20261018.html) -- the pet program
 23. **Mine Mole** -- manages the cryptocurrency mining program on Astra’s PC and checks whether mining is worth the power
     - [`crypto-burrow`](https://findastra.github.io/astras-pet-os/apps/pet-programs/mine-mole-20261018.html) -- the pet program
