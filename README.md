@@ -35,9 +35,7 @@
 <!-- Astra, 2026-11-13: no pet list here, only these bullets and the intelligence levels.
      This heading is HTML on purpose: the Friendly Farmer's profile round rebuilds the full pet list under any
      markdown heading that says PetOS. Do not turn it back into a "###" heading unless Astra asks. -->
-<h3>Astra's PetOS - </h3>
-
-Free, Open-Source AI Operating System
+<h3>Astra's PetOS - Free, Open-Source AI Operating System </h3>
 
 - [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- Astra's PetOS home repo: the Friendly Farmer organizes the pets (intelligent apps)
 - [`the-farm`](https://findastra.github.io/astras-pet-os/apps/pet-programs/astras-pet-os-20261018.html) -- the Friendly Farmer's pet program: every pet's status and mood in one place
