@@ -38,11 +38,12 @@
 <h3>Astra's PetOS - </h3>
 
 Free, Open-Source AI Operating System
-**Pet (Intelligent App)**
 
 - [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- Astra's PetOS home repo: the Friendly Farmer organizes the pets (intelligent apps)
 - [`the-farm`](https://findastra.github.io/astras-pet-os/apps/pet-programs/astras-pet-os-20261018.html) -- the Friendly Farmer's pet program: every pet's status and mood in one place
 - [`system-map`](https://findastra.github.io/astras-pet-os/system-map-20261012.html) -- how they all connect: Astra's PetOS System Map
+
+**Pet (Intelligent App)**
 
 | Intelligence Level | Layer Components | What it is |
 |:---:|---|---|
