@@ -32,9 +32,17 @@
 - [`astras-photostar`](https://github.com/findastra/astras-photostar) -- shown at the top right; make your own photostar: put up to 5 photos in a neon star, choose your colors. For html sites
 - [`iris-the-origin-story`](https://github.com/findastra/iris-the-origin-story) -- iris, the Origin Story - a bedtime serial becoming a book
 
-### Astra's PetOS - 
+<!-- Astra, 2026-11-13: no pet list here, only these bullets and the intelligence levels.
+     This heading is HTML on purpose: the Friendly Farmer's profile round rebuilds the full pet list under any
+     markdown heading that says PetOS. Do not turn it back into a "###" heading unless Astra asks. -->
+<h3>Astra's PetOS - </h3>
+
 Free, Open-Source AI Operating System
 **Pet (Intelligent App)**
+
+- [`astras-pet-os`](https://github.com/findastra/astras-pet-os) -- Astra's PetOS home repo: the Friendly Farmer organizes the pets (intelligent apps)
+- [`the-farm`](https://findastra.github.io/astras-pet-os/apps/pet-programs/astras-pet-os-20261018.html) -- the Friendly Farmer's pet program: every pet's status and mood in one place
+- [`system-map`](https://findastra.github.io/astras-pet-os/system-map-20261012.html) -- how they all connect: Astra's PetOS System Map
 
 | Intelligence Level | Layer Components | What it is |
 |:---:|---|---|
@@ -42,7 +50,3 @@ Free, Open-Source AI Operating System
 | **L2** | **Pet Program, Native Tricks you create** | A dashboard that manages L1 programs and tools, and manages your native L2 tricks |
 | **L3** | **Pet Program Agentic Harness + Your AI Model** | Your AI model (Claude Opus 5.5, ChatGPT-6 Astra, local model, etc.) sits in the agentic harness when called upon to become the Agent |
 | **L4** | **Human (User)** | You. The **Friendly Farmer** manages Your Farm |
-
-How they all connect: [Astra's PetOS System Map](https://findastra.github.io/astras-pet-os/system-map-20261012.html)
-
-Astra's PetOS home repo: [`astras-pet-os`](https://github.com/findastra/astras-pet-os)
