@@ -32,8 +32,8 @@
 - [`astras-photostar`](https://github.com/findastra/astras-photostar) -- shown at the top right; make your own photostar: put up to 5 photos in a neon star, choose your colors. For html sites
 - [`iris-the-origin-story`](https://github.com/findastra/iris-the-origin-story) -- iris, the Origin Story - a bedtime serial becoming a book
 
-### Astra's PetOS - Free, Open-Source AI Operating System
-
+### Astra's PetOS - 
+Free, Open-Source AI Operating System
 **Pet (Intelligent App)**
 
 | Intelligence Level | Layer Components | What it is |
