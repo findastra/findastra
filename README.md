@@ -23,6 +23,9 @@
 - [`anthropic-discord-presence`](https://github.com/findastra/anthropic-discord-presence) -- Anthropic Discord Presence card
 - [`ai-discord-presence`](https://github.com/findastra/ai-discord-presence) -- Contains the package for OpenAI Discord Presence, Anthropic Discord Presence, and the tools to add more model presence cards
 - [`ableton-live-discord-presence`](https://github.com/findastra/ableton-live-discord-presence) -- shows on Discord when Astra is playing drums or making music in Ableton Live. One small Windows app
+- [`anthropic-ipo-countdown`](https://github.com/findastra/anthropic-ipo-countdown) -- Anthropic IPO Countdown card
+- [`openai-ipo-countdown`](https://github.com/findastra/openai-ipo-countdown) -- OpenAI IPO Countdown card
+- [`ai-ipo-countdown`](https://github.com/findastra/ai-ipo-countdown) -- Contains the package for Anthropic IPO Countdown, OpenAI IPO Countdown, and the guide to add more company countdowns
 
 ### Web & More
 - [`fuzzboi-factory`](https://github.com/findastra/fuzzbois) -- NFT generator for hand-drawn characters where choosing a 6-digit hex code generates the completely unique character and provides the art download
