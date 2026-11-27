@@ -34,6 +34,11 @@
 - [`pocket-message-board`](https://github.com/findastra/pocket-message-board) -- a scrolling LED sign for any screen. You choose the letters and colors
 - [`astras-photostar`](https://github.com/findastra/astras-photostar) -- shown at the top right; make your own photostar: put up to 5 photos in a neon star, choose your colors. For html sites
 - [`iris-the-origin-story`](https://github.com/findastra/iris-the-origin-story) -- iris, the Origin Story - a bedtime serial becoming a book
+- [`spoonfed`](https://findastra.github.io/spoonfed/) -- Feed me: picks a real place to eat near you. A web app for phones
+- [`papermon`](https://github.com/findastra/papermon) -- a free science discovery desk: real research, publisher explanations, fresh articles, and an anonymous shared reading history
+- [`abliteration-in-3d`](https://github.com/findastra/abliteration-in-3d) -- what abliteration does inside an AI model, in eight charts you can turn
+- [`heretic-on-strix-halo`](https://github.com/findastra/heretic-on-strix-halo) -- running Heretic, the tool that removes refusals from language models, on an AMD Ryzen AI Max+ 395 mini PC: the recipe, settings, scripts, logs and scores
+- [`rave-crawl`](https://github.com/findastra/rave-crawl) -- Boise After Dark, Astra's rave crawl map for Nov 21
 
 <!-- Astra, 2026-11-13: no pet list here, only these bullets and the intelligence levels.
      This heading is HTML on purpose: the Friendly Farmer's profile round rebuilds the full pet list under any
